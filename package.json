@@ -1,0 +1,20 @@
+{
+  "name": "aac-smart-board-lite",
+  "version": "1.0.0",
+  "description": "AI Final Project (Brain.js 1.x CPU-only): LSTM EN+HE + CSV behavior model. No native build deps.",
+  "scripts": {
+    "train:text:en": "node src/text/trainLSTM.cjs --lang en",
+    "train:text:he": "node src/text/trainLSTM.cjs --lang he",
+    "eval:text:en": "node src/text/evaluateLSTM.cjs --lang en",
+    "eval:text:he": "node src/text/evaluateLSTM.cjs --lang he",
+    "train:csv": "node src/csv/trainCsvNet.cjs",
+    "eval:csv": "node src/csv/evaluateCsvNet.cjs",
+    "gen:data": "node src/utils/generateSyntheticData.cjs",
+    "gen:data:csv": "node src/utils/generateSyntheticData.cjs --csvOnly",
+    "serve:ui": "node src/utils/serve.cjs"
+  },
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "csv-parse": "^5.5.6"
+  }
+}

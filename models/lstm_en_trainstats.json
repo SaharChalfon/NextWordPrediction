@@ -1,0 +1,56 @@
+{
+  "params": {
+    "lang": "en",
+    "hiddenLayers": [
+      8
+    ],
+    "baseLearningRate": 0.001,
+    "usedLearningRate": 0.001,
+    "lrDecay": 0.5,
+    "maxRetries": 4,
+    "iterations": 180,
+    "errorThresh": 0.02,
+    "maxTokens": 6,
+    "seed": 1234,
+    "split": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    }
+  },
+  "result": {
+    "error": 0.08347129218479683,
+    "iterations": 180
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "learningRate": 0.001,
+      "result": {
+        "error": 0.08347129218479683,
+        "iterations": 180
+      },
+      "failure": null,
+      "trainingStats": [
+        "iterations: 0, training error: 0.07423462879882127",
+        "iterations: 10, training error: 0.05133291635753281",
+        "iterations: 20, training error: 0.053265939834125524",
+        "iterations: 30, training error: 0.050479615382501834",
+        "iterations: 40, training error: 0.05627502104567188",
+        "iterations: 50, training error: 0.05762563150417931",
+        "iterations: 60, training error: 0.056346006701162056",
+        "iterations: 70, training error: 0.06370205535032993",
+        "iterations: 80, training error: 0.11199413969534645",
+        "iterations: 90, training error: 0.0673998961866672",
+        "iterations: 100, training error: 0.06608821767428996",
+        "iterations: 110, training error: 0.08897402071065032",
+        "iterations: 120, training error: 0.08778415653860562",
+        "iterations: 130, training error: 0.10555183626069523",
+        "iterations: 140, training error: 0.07808413030068755",
+        "iterations: 150, training error: 0.08610033448988315",
+        "iterations: 160, training error: 0.0784528319179028",
+        "iterations: 170, training error: 0.08537131171230156"
+      ]
+    }
+  ]
+}

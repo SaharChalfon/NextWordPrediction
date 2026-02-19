@@ -1,0 +1,15 @@
+{
+  "lang": "en",
+  "hasBackoff": true,
+  "validation": {
+    "name": "Validation",
+    "samples": 153,
+    "acc": 0.1895424836601307
+  },
+  "test": {
+    "name": "Test",
+    "samples": 154,
+    "acc": 0.1038961038961039
+  },
+  "evaluatedAt": "2026-02-18T21:23:30.385Z"
+}

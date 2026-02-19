@@ -1,0 +1,4 @@
+function accuracy(yTrue,yPred){if(yTrue.length!==yPred.length)throw new Error("Length mismatch");let c=0;for(let i=0;i<yTrue.length;i++)if(yTrue[i]===yPred[i])c++;return c/Math.max(1,yTrue.length);}
+function confusionMatrix(labels,yTrue,yPred){const idx=new Map(labels.map((l,i)=>[l,i]));const m=Array.from({length:labels.length},()=>Array(labels.length).fill(0));for(let i=0;i<yTrue.length;i++){const r=idx.get(yTrue[i]);const c=idx.get(yPred[i]);if(r!==undefined&&c!==undefined)m[r][c]++;}return m;}
+function printConfusion(labels,matrix){const pad=(s,n)=>String(s).padStart(n," ");const colW=Math.max(...labels.map(l=>l.length),5)+2;let out="";out+=pad("",colW)+labels.map(l=>pad(l,colW)).join("")+"\n";for(let r=0;r<labels.length;r++){out+=pad(labels[r],colW);out+=matrix[r].map(v=>pad(v,colW)).join("");out+="\n";}return out;}
+module.exports={accuracy,confusionMatrix,printConfusion};

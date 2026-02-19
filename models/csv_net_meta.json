@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "session_len": {
+      "min": 1,
+      "max": 12
+    },
+    "user_speed": {
+      "min": 0,
+      "max": 1
+    },
+    "prev_word_len": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  "categories": [
+    "Needs",
+    "Feelings",
+    "Actions",
+    "People",
+    "Objects",
+    "Places"
+  ],
+  "trainResult": {
+    "error": 0.0019911736158277978,
+    "iterations": 225
+  },
+  "seed": 4
+}

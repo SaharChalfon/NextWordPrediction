@@ -1,0 +1,108 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>AAC Smart Board (Brain.js)</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>AAC Smart Board – Next Word Prediction</h1>
+    <p>Two LSTM models (EN + HE) + behavior model (CSV) for reranking.</p>
+  </header>
+
+  <main class="grid">
+    <section class="card">
+      <h2>1) Load Models</h2>
+      <div class="row">
+        <button id="btnLoadModels">Load models from /models</button>
+        <span id="loadStatus" class="muted">Not loaded</span>
+      </div>
+      <div class="muted small">
+        Train first in Node (npm run train:...) then refresh.
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>2) Next-word prediction</h2>
+
+      <div class="row">
+        <label>Language</label>
+        <select id="lang">
+          <option value="en">English</option>
+          <option value="he">עברית</option>
+        </select>
+      </div>
+
+      <div class="row">
+        <label>Prefix</label>
+        <input id="prefix" type="text" placeholder="e.g., i want to / אני רוצה" />
+      </div>
+
+      <div class="row">
+        <label>Behavior context (CSV)</label>
+        <div class="param">
+          <span class="paramLabel">timeBucket</span>
+          <select id="timeBucket">
+            <option value="morning">morning</option>
+            <option value="afternoon">afternoon</option>
+            <option value="evening">evening</option>
+            <option value="night">night</option>
+          </select>
+        </div>
+
+        <div class="param">
+          <span class="paramLabel">prevCategory</span>
+          <select id="prevCategory">
+            <option>Needs</option>
+            <option>Feelings</option>
+            <option>Actions</option>
+            <option>People</option>
+            <option>Objects</option>
+            <option>Places</option>
+          </select>
+        </div>
+
+        <div class="param">
+          <span class="paramLabel">sessionLen</span>
+          <input id="sessionLen" type="number" min="1" max="12" value="3" title="session_len"/>
+        </div>
+
+        <div class="param">
+          <span class="paramLabel">userSpeed</span>
+          <input id="userSpeed" type="number" min="0" max="1" step="0.01" value="0.55" title="user_speed"/>
+        </div>
+
+        <div class="param">
+          <span class="paramLabel">prevWordLen</span>
+          <input id="prevWordLen" type="number" min="1" max="10" value="4" title="prev_word_len"/>
+        </div>
+      </div>
+
+      <div class="row">
+        <button id="btnPredict">Predict</button>
+      </div>
+
+      <div class="result">
+        <div><strong>CSV predicted category:</strong> <span id="csvCat">—</span></div>
+        <div><strong>Next word (LSTM):</strong> <span id="lstmNext">—</span></div>
+        <div><strong>Suggestions (raw):</strong> <span id="rawSuggestions">—</span></div>
+        <div><strong>Suggestions (reranked):</strong> <span id="suggestions">—</span></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>3) Stats</h2>
+      <div class="row">
+        <button id="btnShowStats">Show eval stats</button>
+      </div>
+      <pre id="stats" class="pre"></pre>
+    </section>
+  </main>
+
+  <footer class="muted small">Local-only demo UI</footer>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>

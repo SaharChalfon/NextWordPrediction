@@ -1,0 +1,24 @@
+const fs=require("fs");
+const path=require("path");
+const brain=require("brain.js");
+const {loadCsv}=require("./loadCsv.cjs");
+const {preprocess}=require("./preprocessCsv.cjs");
+const {mulberry32}=require("../utils/seed.cjs");
+const root=path.resolve(process.cwd());
+const csvPath=path.join(root,"data","usage_logs.csv");
+if(!fs.existsSync(csvPath)){console.error("Missing usage_logs.csv. Run: npm run gen:data");process.exit(1);}
+const rows=loadCsv(csvPath);
+const {data,stats,categories}=preprocess(rows);
+const split=Math.floor(data.length*0.8);
+const train=data.slice(0,split);
+const test=data.slice(split);
+const seed=4;
+Math.random=mulberry32(seed);
+const net=new brain.NeuralNetwork({hiddenLayers:[32,16],activation:"sigmoid"});
+console.log("Training CSV Feedforward NN");
+console.log({total:data.length,train:train.length,test:test.length});
+const trainResult=net.train(train.map(d=>({input:d.input,output:d.output})),{iterations:4000,log:true,logPeriod:100,errorThresh:0.002,learningRate:0.1});
+const outDir=path.join(root,"models");fs.mkdirSync(outDir,{recursive:true});
+fs.writeFileSync(path.join(outDir,"csv_net.json"), JSON.stringify(net.toJSON()), "utf-8");
+fs.writeFileSync(path.join(outDir,"csv_net_meta.json"), JSON.stringify({stats,categories,trainResult,seed},null,2), "utf-8");
+console.log("Saved CSV model to /models");

@@ -1,0 +1,3 @@
+function minMaxFit(rows,keys){const stats={};for(const k of keys)stats[k]={min:Infinity,max:-Infinity};for(const row of rows){for(const k of keys){const v=Number(row[k]);if(!Number.isFinite(v))continue;if(v<stats[k].min)stats[k].min=v;if(v>stats[k].max)stats[k].max=v;}}return stats;}
+function minMaxTransform(row,stats){const out={...row};for(const k of Object.keys(stats)){const mm=stats[k];const v=Number(row[k]);if(!Number.isFinite(v)||!Number.isFinite(mm.min)||!Number.isFinite(mm.max)||mm.max===mm.min){out[k]=0;}else{out[k]=(v-mm.min)/(mm.max-mm.min);} }return out;}
+module.exports={minMaxFit,minMaxTransform};

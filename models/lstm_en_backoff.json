@@ -1,0 +1,5141 @@
+{
+  "maxContext": 4,
+  "tables": {
+    "1": {
+      "please": {
+        "take": 2,
+        "speak": 3,
+        "help": 31,
+        "stay": 1,
+        "slow": 1,
+        "try": 1,
+        "sit": 1,
+        "turn": 4,
+        "stop": 2,
+        "wait": 2,
+        "give": 4,
+        "come": 1,
+        "look": 1,
+        "open": 1,
+        "stand": 1,
+        "continue": 1,
+        "be": 2,
+        "listen": 1,
+        "call": 1
+      },
+      "take": {
+        "me": 2,
+        "medicine": 1
+      },
+      "me": {
+        "outside": 1,
+        "walk": 2,
+        "sleep": 1,
+        "calm": 1,
+        "understand": 1,
+        "start": 1,
+        "stand": 2,
+        "quickly": 1,
+        "play": 1,
+        "draw": 1,
+        "bathe": 1,
+        "choose": 1,
+        "decide": 1,
+        "finish": 1,
+        "time": 2,
+        "listen": 1,
+        "food": 1,
+        "open": 1,
+        "find": 1,
+        "drink": 1,
+        "talk": 1,
+        "again": 1,
+        "write": 1,
+        "rest": 1,
+        "now": 1,
+        "read": 1,
+        "space": 1,
+        "close": 1,
+        "to": 1,
+        "move": 1,
+        "eat": 1,
+        "try": 1,
+        "sit": 1
+      },
+      "speak": {
+        "slowly": 2,
+        "quietly": 1,
+        "clearly": 1,
+        "louder": 1
+      },
+      "i": {
+        "need": 80,
+        "cannot": 44,
+        "remember": 1,
+        "want": 245,
+        "feel": 44,
+        "will": 48,
+        "am": 81,
+        "drink": 2,
+        "would": 19,
+        "can": 27,
+        "eat": 2,
+        "like": 7,
+        "draw": 1,
+        "do": 6,
+        "go": 1,
+        "have": 3,
+        "understand": 2,
+        "open": 3,
+        "walk": 1,
+        "sit": 1,
+        "watch": 1,
+        "close": 1
+      },
+      "need": {
+        "space": 3,
+        "to": 40,
+        "a": 12,
+        "my": 2,
+        "more": 3,
+        "water": 3,
+        "help": 2,
+        "quiet": 1,
+        "music": 1,
+        "time": 1,
+        "attention": 3,
+        "someone": 1,
+        "medicine": 2,
+        "rest": 1,
+        "food": 2,
+        "less": 1,
+        "support": 1,
+        "paper": 1
+      },
+      "space": {
+        "please": 1,
+        "now": 2
+      },
+      "cannot": {
+        "help": 2,
+        "start": 1,
+        "feel": 5,
+        "explain": 1,
+        "stay": 2,
+        "drink": 2,
+        "do": 2,
+        "calm": 1,
+        "stand": 1,
+        "play": 1,
+        "remember": 2,
+        "be": 2,
+        "sleep": 1,
+        "talk": 1,
+        "see": 1,
+        "choose": 1,
+        "go": 1,
+        "try": 3,
+        "answer": 1,
+        "hear": 1,
+        "draw": 1,
+        "listen": 1,
+        "continue": 1,
+        "understand": 2,
+        "read": 1,
+        "move": 1,
+        "finish": 1,
+        "eat": 1,
+        "focus": 1,
+        "decide": 1,
+        "wait": 1
+      },
+      "help": {
+        "now": 4,
+        "me": 31,
+        "you": 1,
+        "please": 2
+      },
+      "remember": {
+        "now": 3,
+        "later": 1,
+        "this": 2,
+        "again": 1,
+        "slowly": 1
+      },
+      "to": {
+        "start": 5,
+        "finish": 7,
+        "hear": 4,
+        "see": 4,
+        "listen": 7,
+        "focus": 7,
+        "stand": 3,
+        "wait": 10,
+        "understand": 6,
+        "choose": 6,
+        "drink": 7,
+        "decide": 5,
+        "think": 5,
+        "stay": 7,
+        "answer": 5,
+        "practice": 8,
+        "rest": 4,
+        "go": 12,
+        "breathe": 2,
+        "check": 3,
+        "begin": 5,
+        "repeat": 3,
+        "eat": 17,
+        "read": 1,
+        "confirm": 1,
+        "talk": 4,
+        "look": 5,
+        "stop": 9,
+        "wear": 2,
+        "sit": 5,
+        "try": 7,
+        "continue": 4,
+        "walk": 3,
+        "speak": 3,
+        "feel": 12,
+        "remember": 8,
+        "smile": 1,
+        "play": 8,
+        "lie": 2,
+        "unpack": 1,
+        "share": 1,
+        "me": 2,
+        "move": 6,
+        "help": 2,
+        "forget": 2,
+        "be": 11,
+        "school": 3,
+        "take": 1,
+        "cancel": 1,
+        "buy": 1,
+        "come": 3,
+        "sleep": 4,
+        "calm": 3,
+        "explain": 4,
+        "communicate": 2,
+        "relax": 2,
+        "respond": 3,
+        "learn": 4,
+        "import": 1,
+        "say": 5,
+        "do": 1,
+        "ask": 4,
+        "fix": 1,
+        "slow": 1,
+        "kiss": 1,
+        "visit": 1,
+        "cry": 1,
+        "write": 2,
+        "organize": 1,
+        "watch": 1,
+        "dance": 1,
+        "tidy": 1,
+        "apologize": 1,
+        "jump": 1,
+        "clean": 1,
+        "flush": 1
+      },
+      "start": {
+        "now": 5,
+        "again": 2
+      },
+      "want": {
+        "to": 234,
+        "bigger": 1,
+        "smaller": 1,
+        "something": 4,
+        "this": 1,
+        "the": 1,
+        "that": 1,
+        "soap": 1,
+        "shampoo": 1,
+        "more": 1,
+        "another": 1
+      },
+      "finish": {
+        "slowly": 1,
+        "eating": 1,
+        "this": 4,
+        "playing": 1,
+        "calibration": 1,
+        "now": 1
+      },
+      "feel": {
+        "great": 1,
+        "safe": 5,
+        "calm": 4,
+        "better": 4,
+        "confused": 2,
+        "stressed": 2,
+        "sad": 3,
+        "strong": 1,
+        "angry": 3,
+        "lonely": 1,
+        "ready": 4,
+        "supported": 2,
+        "scared": 2,
+        "hungry": 1,
+        "peaceful": 1,
+        "proud": 1,
+        "understood": 2,
+        "well": 1,
+        "weak": 2,
+        "sleepy": 1,
+        "bored": 1,
+        "loved": 2,
+        "sick": 2,
+        "worse": 2,
+        "confident": 1,
+        "okay": 1,
+        "nervous": 1,
+        "relaxed": 1,
+        "happy": 2,
+        "hot": 1,
+        "excited": 1,
+        "excellent": 1,
+        "not": 1,
+        "cold": 1,
+        "stronger": 1,
+        "bad": 1,
+        "thirsty": 2,
+        "it": 1
+      },
+      "great": {
+        "today": 1
+      },
+      "hear": {
+        "clearly": 1,
+        "slowly": 1,
+        "you": 1,
+        "again": 1
+      },
+      "see": {
+        "slowly": 1,
+        "again": 1,
+        "accuracy": 1,
+        "clearly": 1
+      },
+      "will": {
+        "stay": 1,
+        "feel": 4,
+        "play": 1,
+        "be": 6,
+        "stand": 1,
+        "rest": 1,
+        "eat": 1,
+        "draw": 1,
+        "listen": 1,
+        "wake": 1,
+        "answer": 1,
+        "sit": 2,
+        "try": 3,
+        "lie": 2,
+        "stop": 2,
+        "move": 1,
+        "read": 1,
+        "walk": 1,
+        "wait": 2,
+        "go": 2,
+        "ask": 1,
+        "drink": 1,
+        "focus": 1,
+        "continue": 1,
+        "choose": 1,
+        "calm": 2,
+        "help": 1,
+        "learn": 1,
+        "breathe": 1,
+        "write": 1,
+        "start": 1,
+        "come": 1
+      },
+      "stay": {
+        "here": 3,
+        "with": 1,
+        "longer": 1,
+        "safe": 1,
+        "calm": 1,
+        "alone": 1,
+        "quiet": 1,
+        "focused": 1
+      },
+      "am": {
+        "resting": 2,
+        "scared": 1,
+        "writing": 2,
+        "feeling": 22,
+        "hungry": 1,
+        "ready": 9,
+        "thirsty": 1,
+        "listening": 1,
+        "playing": 2,
+        "there": 1,
+        "not": 3,
+        "eating": 2,
+        "calming": 1,
+        "with": 1,
+        "sitting": 2,
+        "waking": 1,
+        "here": 1,
+        "trying": 3,
+        "helping": 2,
+        "focusing": 1,
+        "standing": 2,
+        "sleeping": 1,
+        "moving": 2,
+        "sad": 1,
+        "walking": 2,
+        "lying": 2,
+        "watching": 1,
+        "drawing": 1,
+        "happy": 1,
+        "learning": 1,
+        "at": 2,
+        "okay": 1,
+        "thinking": 2,
+        "bored": 1,
+        "sick": 1,
+        "reading": 1
+      },
+      "focus": {
+        "carefully": 1,
+        "better": 1,
+        "more": 1,
+        "now": 3,
+        "quietly": 1
+      },
+      "stand": {
+        "up": 6,
+        "still": 2,
+        "here": 1
+      },
+      "wait": {
+        "outside": 2,
+        "quietly": 1,
+        "here": 5,
+        "there": 1,
+        "for": 1
+      },
+      "safe": {
+        "today": 1,
+        "here": 1
+      },
+      "my": {
+        "throat": 1,
+        "mom": 1,
+        "ear": 2,
+        "leg": 2,
+        "tooth": 2,
+        "hand": 1,
+        "back": 1,
+        "head": 1,
+        "teacher": 1,
+        "stomach": 1,
+        "dad": 1,
+        "arm": 1,
+        "whole": 1
+      },
+      "throat": {
+        "hurts": 1
+      },
+      "hurts": {
+        "a": 2,
+        "very": 2,
+        "this": 1,
+        "there": 1,
+        "when": 2,
+        "today": 1
+      },
+      "a": {
+        "lot": 2,
+        "hug": 3,
+        "tablet": 1,
+        "blanket": 1,
+        "question": 1,
+        "moment": 1,
+        "phone": 1,
+        "little": 1,
+        "break": 1,
+        "pen": 1,
+        "doctor": 1,
+        "pillow": 1,
+        "teacher": 1,
+        "computer": 1,
+        "table": 1,
+        "chair": 1
+      },
+      "understand": {
+        "better": 1,
+        "this": 2,
+        "everything": 1,
+        "slowly": 1,
+        "a": 1,
+        "now": 2
+      },
+      "can": {
+        "i": 14,
+        "remember": 1,
+        "listen": 2,
+        "stand": 1,
+        "try": 3,
+        "answer": 1,
+        "sleep": 1,
+        "ask": 1,
+        "talk": 1,
+        "focus": 1,
+        "finish": 1,
+        "wait": 1,
+        "play": 1,
+        "do": 2,
+        "read": 1,
+        "stop": 1,
+        "stay": 1,
+        "understand": 1,
+        "see": 1,
+        "choose": 2,
+        "calm": 1,
+        "breathe": 1,
+        "help": 1
+      },
+      "drink": {
+        "cold": 1,
+        "slowly": 1,
+        "water": 1,
+        "milk": 1,
+        "coffee": 1,
+        "orange": 1,
+        "now": 3,
+        "juice": 1,
+        "less": 1
+      },
+      "cold": {
+        "water": 1
+      },
+      "with": {
+        "me": 2,
+        "you": 1,
+        "help": 1
+      },
+      "choose": {
+        "together": 1,
+        "now": 3,
+        "carefully": 1,
+        "another": 2,
+        "slowly": 1,
+        "this": 1,
+        "again": 1
+      },
+      "decide": {
+        "now": 3,
+        "later": 1,
+        "together": 1,
+        "slowly": 1
+      },
+      "better": {
+        "now": 1,
+        "today": 1
+      },
+      "think": {
+        "quietly": 3,
+        "alone": 1
+      },
+      "confused": {
+        "today": 1,
+        "here": 1
+      },
+      "answer": {
+        "now": 5,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "play": {
+        "now": 2,
+        "together": 1,
+        "alone": 1,
+        "inside": 1,
+        "outside": 1,
+        "quietly": 1,
+        "slowly": 1
+      },
+      "feeling": {
+        "tired": 1,
+        "better": 2,
+        "calm": 2,
+        "sad": 1,
+        "worse": 3,
+        "good": 1,
+        "unsafe": 1,
+        "weak": 1,
+        "bad": 1,
+        "angry": 1,
+        "nervous": 2,
+        "okay": 1,
+        "safe": 1,
+        "ready": 1,
+        "strong": 1,
+        "scared": 1,
+        "confused": 1
+      },
+      "tired": {
+        "today": 1
+      },
+      "be": {
+        "patient": 3,
+        "strong": 1,
+        "kind": 2,
+        "understood": 2,
+        "alone": 2,
+        "brave": 2,
+        "quiet": 3,
+        "calm": 2,
+        "heard": 1,
+        "ready": 1,
+        "louder": 1,
+        "happy": 1
+      },
+      "practice": {
+        "slowly": 1,
+        "again": 1,
+        "more": 1,
+        "now": 2,
+        "speaking": 1
+      },
+      "stressed": {
+        "today": 1,
+        "now": 1
+      },
+      "go": {
+        "last": 1,
+        "outside": 3,
+        "to": 2,
+        "back": 2,
+        "downstairs": 1,
+        "home": 2,
+        "alone": 1,
+        "together": 1,
+        "first": 1
+      },
+      "would": {
+        "like": 19
+      },
+      "like": {
+        "a": 2,
+        "to": 13,
+        "this": 1,
+        "some": 6,
+        "that": 2,
+        "my": 1,
+        "music": 1,
+        "you": 1,
+        "ice": 1
+      },
+      "breathe": {
+        "slowly": 4
+      },
+      "check": {
+        "again": 1,
+        "slowly": 1,
+        "carefully": 1
+      },
+      "sleep": {
+        "now": 3,
+        "longer": 1
+      },
+      "eat": {
+        "fruit": 2,
+        "vegetables": 1,
+        "now": 3,
+        "bread": 1,
+        "pasta": 1,
+        "lunch": 1,
+        "dessert": 1,
+        "yogurt": 1,
+        "salad": 1,
+        "something": 2,
+        "dinner": 1,
+        "rice": 1,
+        "chocolate": 1,
+        "chicken": 1,
+        "cheese": 1
+      },
+      "fruit": {
+        "now": 1
+      },
+      "calm": {
+        "down": 8,
+        "today": 2,
+        "now": 1
+      },
+      "sad": {
+        "today": 2,
+        "here": 1,
+        "now": 1
+      },
+      "rest": {
+        "now": 4
+      },
+      "begin": {
+        "carefully": 1,
+        "again": 1,
+        "slowly": 1,
+        "alone": 1,
+        "now": 1
+      },
+      "slow": {
+        "down": 2
+      },
+      "repeat": {
+        "again": 1,
+        "slowly": 1,
+        "this": 1
+      },
+      "ready": {
+        "to": 7,
+        "now": 2,
+        "today": 2
+      },
+      "explain": {
+        "this": 1,
+        "now": 1,
+        "again": 1,
+        "myself": 1
+      },
+      "look": {
+        "there": 1,
+        "carefully": 1,
+        "slowly": 1,
+        "here": 1,
+        "at": 1,
+        "closer": 1
+      },
+      "draw": {
+        "now": 1,
+        "something": 1
+      },
+      "stop": {
+        "now": 6,
+        "playing": 2,
+        "for": 1,
+        "this": 2,
+        "talking": 1,
+        "eating": 1
+      },
+      "angry": {
+        "here": 1,
+        "today": 2,
+        "now": 1
+      },
+      "lonely": {
+        "here": 1
+      },
+      "wear": {
+        "shoes": 1,
+        "pants": 1
+      },
+      "that": {
+        "is": 5
+      },
+      "is": {
+        "not": 4,
+        "too": 9,
+        "worse": 1,
+        "okay": 1,
+        "good": 2,
+        "enough": 1,
+        "better": 1
+      },
+      "not": {
+        "good": 2,
+        "okay": 3,
+        "like": 2,
+        "ready": 2,
+        "feel": 1,
+        "want": 2,
+        "enough": 1,
+        "remember": 1
+      },
+      "bigger": {
+        "buttons": 1
+      },
+      "sit": {
+        "closer": 1,
+        "quietly": 1,
+        "down": 3,
+        "next": 1,
+        "alone": 1,
+        "here": 2
+      },
+      "try": {
+        "again": 8,
+        "this": 1,
+        "together": 1,
+        "now": 2,
+        "harder": 1,
+        "with": 1,
+        "later": 1,
+        "carefully": 1
+      },
+      "tablet": {
+        "please": 1
+      },
+      "it": {
+        "is": 8,
+        "hurts": 3,
+        "alone": 2
+      },
+      "too": {
+        "much": 2,
+        "loud": 1,
+        "easy": 1,
+        "hot": 1,
+        "fast": 1,
+        "quiet": 1,
+        "cold": 1,
+        "slow": 1
+      },
+      "mom": {
+        "please": 1
+      },
+      "more": {
+        "quiet": 1,
+        "space": 1,
+        "support": 1
+      },
+      "continue": {
+        "now": 3,
+        "slowly": 1,
+        "later": 1
+      },
+      "walk": {
+        "slowly": 3,
+        "fast": 1,
+        "now": 1
+      },
+      "hug": {
+        "please": 1,
+        "now": 1
+      },
+      "good": {
+        "today": 1
+      },
+      "water": {
+        "now": 2,
+        "please": 2
+      },
+      "listen": {
+        "carefully": 4,
+        "again": 1,
+        "quietly": 1,
+        "now": 1,
+        "to": 1
+      },
+      "blanket": {
+        "please": 1
+      },
+      "scared": {
+        "now": 1,
+        "here": 1,
+        "today": 1
+      },
+      "wake": {
+        "up": 1
+      },
+      "up": {
+        "now": 1
+      },
+      "playing": {
+        "now": 1
+      },
+      "lie": {
+        "down": 4
+      },
+      "do": {
+        "it": 4,
+        "not": 6,
+        "homework": 1
+      },
+      "hungry": {
+        "now": 1
+      },
+      "quiet": {
+        "now": 1
+      },
+      "this": {
+        "is": 6,
+        "morning": 1
+      },
+      "unpack": {
+        "this": 1
+      },
+      "talk": {
+        "now": 3
+      },
+      "next": {
+        "to": 1
+      },
+      "something": {
+        "nice": 1,
+        "else": 2,
+        "new": 1,
+        "sweet": 1,
+        "different": 1
+      },
+      "move": {
+        "there": 1,
+        "here": 1,
+        "now": 2,
+        "closer": 1,
+        "carefully": 1,
+        "away": 1
+      },
+      "forget": {
+        "this": 1,
+        "slowly": 1
+      },
+      "music": {
+        "please": 1
+      },
+      "smaller": {
+        "buttons": 1
+      },
+      "resting": {
+        "now": 1
+      },
+      "ear": {
+        "hurts": 2
+      },
+      "turn": {
+        "off": 2,
+        "on": 2
+      },
+      "off": {
+        "the": 2
+      },
+      "the": {
+        "television": 2,
+        "door": 3,
+        "screen": 1,
+        "window": 1,
+        "box": 1,
+        "light": 2,
+        "doctor": 1
+      },
+      "calming": {
+        "down": 1
+      },
+      "down": {
+        "now": 3
+      },
+      "have": {
+        "medicine": 1,
+        "help": 1,
+        "water": 1
+      },
+      "medicine": {
+        "please": 1,
+        "now": 1
+      },
+      "proud": {
+        "today": 1
+      },
+      "ask": {
+        "a": 1,
+        "again": 1,
+        "clearly": 1,
+        "now": 2,
+        "something": 1
+      },
+      "time": {
+        "now": 1
+      },
+      "attention": {
+        "now": 2
+      },
+      "someone": {
+        "with": 1
+      },
+      "for": {
+        "a": 1,
+        "you": 1
+      },
+      "buy": {
+        "water": 1
+      },
+      "weak": {
+        "today": 2,
+        "now": 1
+      },
+      "leg": {
+        "hurts": 2
+      },
+      "come": {
+        "inside": 1,
+        "here": 1,
+        "back": 1,
+        "now": 2
+      },
+      "writing": {
+        "now": 1
+      },
+      "waking": {
+        "up": 1
+      },
+      "worse": {
+        "now": 3,
+        "today": 1
+      },
+      "sitting": {
+        "here": 1
+      },
+      "tooth": {
+        "hurts": 2
+      },
+      "very": {
+        "much": 2
+      },
+      "communicate": {
+        "better": 1,
+        "faster": 1
+      },
+      "hand": {
+        "hurts": 1
+      },
+      "phone": {
+        "please": 1
+      },
+      "respond": {
+        "now": 1,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "back": {
+        "hurts": 1
+      },
+      "learn": {
+        "today": 1,
+        "now": 1,
+        "more": 1
+      },
+      "read": {
+        "now": 1
+      },
+      "give": {
+        "me": 4
+      },
+      "sleepy": {
+        "now": 1
+      },
+      "some": {
+        "water": 1,
+        "quiet": 1,
+        "help": 1,
+        "space": 1,
+        "food": 1,
+        "time": 1
+      },
+      "bad": {
+        "today": 2
+      },
+      "import": {
+        "sentences": 1
+      },
+      "bored": {
+        "here": 1
+      },
+      "say": {
+        "something": 2,
+        "sorry": 1,
+        "goodbye": 1,
+        "hello": 1
+      },
+      "loved": {
+        "today": 1
+      },
+      "head": {
+        "hurts": 1
+      },
+      "trying": {
+        "again": 1,
+        "slowly": 1
+      },
+      "at": {
+        "me": 1,
+        "home": 1,
+        "school": 1
+      },
+      "open": {
+        "the": 4,
+        "it": 1
+      },
+      "food": {
+        "now": 1,
+        "please": 1
+      },
+      "pen": {
+        "please": 1
+      },
+      "on": {
+        "the": 2
+      },
+      "helping": {
+        "now": 1
+      },
+      "screen": {
+        "brighter": 1
+      },
+      "fix": {
+        "this": 1
+      },
+      "doctor": {
+        "please": 1
+      },
+      "find": {
+        "it": 1
+      },
+      "kiss": {
+        "you": 1
+      },
+      "visit": {
+        "friends": 1
+      },
+      "okay": {
+        "now": 2,
+        "today": 2
+      },
+      "moving": {
+        "now": 1
+      },
+      "pillow": {
+        "please": 1
+      },
+      "orange": {
+        "juice": 1
+      },
+      "less": {
+        "light": 1
+      },
+      "again": {
+        "now": 1
+      },
+      "stomach": {
+        "hurts": 1
+      },
+      "nervous": {
+        "here": 1,
+        "today": 1
+      },
+      "organize": {
+        "this": 1
+      },
+      "watch": {
+        "tv": 1,
+        "television": 1
+      },
+      "lying": {
+        "down": 1,
+        "in": 1
+      },
+      "when": {
+        "i": 2
+      },
+      "dad": {
+        "please": 1
+      },
+      "dance": {
+        "now": 1
+      },
+      "soap": {
+        "please": 1
+      },
+      "shampoo": {
+        "please": 1
+      },
+      "teacher": {
+        "please": 1
+      },
+      "another": {
+        "one": 3
+      },
+      "tidy": {
+        "up": 1
+      },
+      "write": {
+        "something": 1,
+        "now": 1
+      },
+      "television": {
+        "today": 1
+      },
+      "happy": {
+        "here": 1,
+        "now": 1
+      },
+      "in": {
+        "bed": 1
+      },
+      "ice": {
+        "cream": 1
+      },
+      "excited": {
+        "here": 1
+      },
+      "computer": {
+        "please": 1
+      },
+      "jump": {
+        "high": 1
+      },
+      "excellent": {
+        "today": 1
+      },
+      "close": {
+        "it": 1,
+        "the": 1
+      },
+      "strong": {
+        "today": 1
+      },
+      "arm": {
+        "hurts": 1
+      },
+      "table": {
+        "please": 1
+      },
+      "support": {
+        "now": 1
+      },
+      "walking": {
+        "slowly": 1
+      },
+      "eating": {
+        "now": 1
+      },
+      "paper": {
+        "please": 1
+      },
+      "clean": {
+        "this": 1
+      },
+      "flush": {
+        "please": 1
+      },
+      "thinking": {
+        "now": 1
+      },
+      "standing": {
+        "here": 1
+      },
+      "thirsty": {
+        "today": 1,
+        "now": 1
+      },
+      "whole": {
+        "body": 1
+      },
+      "body": {
+        "hurts": 1
+      },
+      "sick": {
+        "today": 1
+      },
+      "else": {
+        "now": 1
+      },
+      "chair": {
+        "please": 1
+      },
+      "call": {
+        "the": 1
+      }
+    },
+    "2": {
+      "please take": {
+        "me": 2
+      },
+      "take me": {
+        "outside": 1,
+        "to": 1
+      },
+      "please speak": {
+        "slowly": 2,
+        "louder": 1
+      },
+      "i need": {
+        "space": 3,
+        "to": 40,
+        "a": 12,
+        "my": 2,
+        "more": 3,
+        "water": 3,
+        "help": 2,
+        "quiet": 1,
+        "music": 1,
+        "time": 1,
+        "attention": 3,
+        "someone": 1,
+        "medicine": 2,
+        "rest": 1,
+        "food": 2,
+        "less": 1,
+        "support": 1,
+        "paper": 1
+      },
+      "need space": {
+        "please": 1,
+        "now": 1
+      },
+      "i cannot": {
+        "help": 2,
+        "start": 1,
+        "feel": 5,
+        "explain": 1,
+        "stay": 2,
+        "drink": 2,
+        "do": 2,
+        "calm": 1,
+        "stand": 1,
+        "play": 1,
+        "remember": 2,
+        "be": 2,
+        "sleep": 1,
+        "talk": 1,
+        "see": 1,
+        "choose": 1,
+        "go": 1,
+        "try": 3,
+        "answer": 1,
+        "hear": 1,
+        "draw": 1,
+        "listen": 1,
+        "continue": 1,
+        "understand": 2,
+        "read": 1,
+        "move": 1,
+        "finish": 1,
+        "eat": 1,
+        "focus": 1,
+        "decide": 1,
+        "wait": 1
+      },
+      "cannot help": {
+        "now": 2
+      },
+      "i remember": {
+        "now": 1
+      },
+      "need to": {
+        "start": 1,
+        "listen": 1,
+        "stand": 1,
+        "rest": 2,
+        "breathe": 2,
+        "stop": 1,
+        "walk": 1,
+        "lie": 2,
+        "sit": 1,
+        "talk": 1,
+        "go": 2,
+        "eat": 2,
+        "finish": 1,
+        "take": 1,
+        "feel": 4,
+        "sleep": 2,
+        "calm": 2,
+        "wait": 1,
+        "say": 1,
+        "remember": 1,
+        "relax": 1,
+        "understand": 1,
+        "explain": 1,
+        "decide": 1,
+        "drink": 1,
+        "choose": 1,
+        "focus": 1,
+        "ask": 1,
+        "see": 1,
+        "practice": 1
+      },
+      "to start": {
+        "now": 2,
+        "again": 2
+      },
+      "i want": {
+        "to": 234,
+        "bigger": 1,
+        "smaller": 1,
+        "something": 4,
+        "the": 1,
+        "soap": 1,
+        "shampoo": 1,
+        "more": 1,
+        "another": 1
+      },
+      "want to": {
+        "finish": 6,
+        "hear": 4,
+        "see": 3,
+        "focus": 5,
+        "wait": 8,
+        "understand": 4,
+        "choose": 5,
+        "drink": 6,
+        "decide": 4,
+        "think": 5,
+        "stay": 7,
+        "answer": 5,
+        "practice": 6,
+        "go": 9,
+        "check": 3,
+        "begin": 5,
+        "repeat": 3,
+        "eat": 13,
+        "confirm": 1,
+        "look": 5,
+        "wear": 2,
+        "sit": 4,
+        "try": 7,
+        "continue": 4,
+        "stop": 8,
+        "speak": 3,
+        "feel": 8,
+        "remember": 6,
+        "smile": 1,
+        "play": 6,
+        "unpack": 1,
+        "share": 1,
+        "listen": 4,
+        "walk": 2,
+        "move": 6,
+        "help": 2,
+        "forget": 2,
+        "be": 11,
+        "cancel": 1,
+        "buy": 1,
+        "start": 3,
+        "come": 3,
+        "communicate": 2,
+        "relax": 1,
+        "respond": 3,
+        "learn": 2,
+        "stand": 2,
+        "import": 1,
+        "calm": 1,
+        "say": 4,
+        "do": 1,
+        "ask": 3,
+        "fix": 1,
+        "slow": 1,
+        "rest": 2,
+        "kiss": 1,
+        "visit": 1,
+        "cry": 1,
+        "sleep": 2,
+        "organize": 1,
+        "watch": 1,
+        "dance": 1,
+        "explain": 2,
+        "tidy": 1,
+        "write": 1,
+        "talk": 1,
+        "apologize": 1,
+        "jump": 1,
+        "clean": 1,
+        "flush": 1
+      },
+      "to finish": {
+        "slowly": 1,
+        "eating": 1,
+        "this": 1,
+        "playing": 1,
+        "calibration": 1,
+        "now": 1
+      },
+      "i feel": {
+        "great": 1,
+        "safe": 2,
+        "better": 1,
+        "confused": 2,
+        "stressed": 2,
+        "sad": 3,
+        "angry": 3,
+        "lonely": 1,
+        "calm": 2,
+        "scared": 2,
+        "hungry": 1,
+        "proud": 1,
+        "weak": 2,
+        "sleepy": 1,
+        "bored": 1,
+        "loved": 1,
+        "sick": 2,
+        "ready": 2,
+        "worse": 2,
+        "okay": 1,
+        "nervous": 1,
+        "happy": 2,
+        "hot": 1,
+        "excited": 1,
+        "excellent": 1,
+        "not": 1,
+        "cold": 1,
+        "bad": 1,
+        "thirsty": 2
+      },
+      "feel great": {
+        "today": 1
+      },
+      "to hear": {
+        "clearly": 1,
+        "slowly": 1,
+        "you": 1,
+        "again": 1
+      },
+      "to see": {
+        "slowly": 1,
+        "again": 1,
+        "accuracy": 1,
+        "clearly": 1
+      },
+      "cannot start": {
+        "now": 1
+      },
+      "i will": {
+        "stay": 1,
+        "feel": 4,
+        "play": 1,
+        "be": 6,
+        "stand": 1,
+        "rest": 1,
+        "eat": 1,
+        "draw": 1,
+        "listen": 1,
+        "wake": 1,
+        "answer": 1,
+        "sit": 2,
+        "try": 3,
+        "lie": 2,
+        "stop": 2,
+        "move": 1,
+        "read": 1,
+        "walk": 1,
+        "wait": 2,
+        "go": 2,
+        "ask": 1,
+        "drink": 1,
+        "focus": 1,
+        "continue": 1,
+        "choose": 1,
+        "calm": 2,
+        "help": 1,
+        "learn": 1,
+        "breathe": 1,
+        "write": 1,
+        "start": 1,
+        "come": 1
+      },
+      "will stay": {
+        "here": 1
+      },
+      "please help": {
+        "me": 31
+      },
+      "help me": {
+        "walk": 2,
+        "sleep": 1,
+        "calm": 1,
+        "understand": 1,
+        "start": 1,
+        "stand": 2,
+        "quickly": 1,
+        "play": 1,
+        "draw": 1,
+        "bathe": 1,
+        "choose": 1,
+        "decide": 1,
+        "finish": 1,
+        "listen": 1,
+        "open": 1,
+        "find": 1,
+        "drink": 1,
+        "talk": 1,
+        "again": 1,
+        "write": 1,
+        "rest": 1,
+        "now": 1,
+        "read": 1,
+        "close": 1,
+        "move": 1,
+        "eat": 1,
+        "try": 1,
+        "sit": 1
+      },
+      "i am": {
+        "resting": 2,
+        "scared": 1,
+        "writing": 2,
+        "feeling": 22,
+        "hungry": 1,
+        "ready": 9,
+        "thirsty": 1,
+        "listening": 1,
+        "playing": 2,
+        "there": 1,
+        "not": 3,
+        "eating": 2,
+        "calming": 1,
+        "with": 1,
+        "sitting": 2,
+        "waking": 1,
+        "here": 1,
+        "trying": 3,
+        "helping": 2,
+        "focusing": 1,
+        "standing": 2,
+        "sleeping": 1,
+        "moving": 2,
+        "sad": 1,
+        "walking": 2,
+        "lying": 2,
+        "watching": 1,
+        "drawing": 1,
+        "happy": 1,
+        "learning": 1,
+        "at": 2,
+        "okay": 1,
+        "thinking": 2,
+        "bored": 1,
+        "sick": 1,
+        "reading": 1
+      },
+      "to focus": {
+        "carefully": 1,
+        "better": 1,
+        "more": 1,
+        "quietly": 1,
+        "now": 1
+      },
+      "to stand": {
+        "up": 1,
+        "here": 1,
+        "still": 1
+      },
+      "to wait": {
+        "outside": 2,
+        "quietly": 1,
+        "here": 3,
+        "there": 1
+      },
+      "feel safe": {
+        "today": 1,
+        "here": 1
+      },
+      "my throat": {
+        "hurts": 1
+      },
+      "throat hurts": {
+        "a": 1
+      },
+      "hurts a": {
+        "lot": 2
+      },
+      "to understand": {
+        "better": 1,
+        "everything": 1,
+        "slowly": 1,
+        "now": 1
+      },
+      "can i": {
+        "drink": 2,
+        "eat": 2,
+        "draw": 1,
+        "go": 1,
+        "have": 3,
+        "open": 3,
+        "watch": 1,
+        "close": 1
+      },
+      "i drink": {
+        "cold": 1,
+        "orange": 1
+      },
+      "drink cold": {
+        "water": 1
+      },
+      "will feel": {
+        "calm": 1,
+        "ready": 1,
+        "better": 1,
+        "safe": 1
+      },
+      "please stay": {
+        "with": 1
+      },
+      "stay with": {
+        "me": 1
+      },
+      "to choose": {
+        "together": 1,
+        "carefully": 1,
+        "now": 2,
+        "slowly": 1,
+        "again": 1
+      },
+      "to drink": {
+        "slowly": 1,
+        "water": 1,
+        "milk": 1,
+        "coffee": 1,
+        "now": 1,
+        "juice": 1,
+        "less": 1
+      },
+      "to decide": {
+        "now": 2,
+        "later": 1,
+        "together": 1,
+        "slowly": 1
+      },
+      "feel better": {
+        "now": 1
+      },
+      "to think": {
+        "quietly": 3,
+        "alone": 1
+      },
+      "to stay": {
+        "longer": 1,
+        "safe": 1,
+        "calm": 1,
+        "alone": 1,
+        "quiet": 1,
+        "here": 1,
+        "focused": 1
+      },
+      "feel confused": {
+        "today": 1,
+        "here": 1
+      },
+      "to answer": {
+        "now": 2,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "will play": {
+        "now": 1
+      },
+      "am feeling": {
+        "tired": 1,
+        "better": 2,
+        "calm": 2,
+        "sad": 1,
+        "worse": 3,
+        "good": 1,
+        "unsafe": 1,
+        "weak": 1,
+        "bad": 1,
+        "angry": 1,
+        "nervous": 2,
+        "okay": 1,
+        "safe": 1,
+        "ready": 1,
+        "strong": 1,
+        "scared": 1,
+        "confused": 1
+      },
+      "feeling tired": {
+        "today": 1
+      },
+      "will be": {
+        "patient": 1,
+        "strong": 1,
+        "kind": 1,
+        "calm": 1,
+        "ready": 1,
+        "brave": 1
+      },
+      "to practice": {
+        "slowly": 1,
+        "again": 1,
+        "more": 1,
+        "now": 2,
+        "speaking": 1
+      },
+      "feeling better": {
+        "today": 1
+      },
+      "feel stressed": {
+        "today": 1,
+        "now": 1
+      },
+      "to go": {
+        "last": 1,
+        "outside": 2,
+        "back": 2,
+        "downstairs": 1,
+        "home": 2,
+        "alone": 1,
+        "together": 1,
+        "first": 1
+      },
+      "i would": {
+        "like": 19
+      },
+      "would like": {
+        "a": 2,
+        "to": 11,
+        "some": 6
+      },
+      "like a": {
+        "hug": 1,
+        "break": 1
+      },
+      "to breathe": {
+        "slowly": 2
+      },
+      "will stand": {
+        "up": 1
+      },
+      "i can": {
+        "remember": 1,
+        "listen": 2,
+        "stand": 1,
+        "try": 3,
+        "answer": 1,
+        "sleep": 1,
+        "ask": 1,
+        "talk": 1,
+        "focus": 1,
+        "finish": 1,
+        "wait": 1,
+        "play": 1,
+        "do": 2,
+        "read": 1,
+        "stop": 1,
+        "stay": 1,
+        "understand": 1,
+        "see": 1,
+        "choose": 2,
+        "calm": 1,
+        "breathe": 1,
+        "help": 1
+      },
+      "to check": {
+        "again": 1,
+        "slowly": 1,
+        "carefully": 1
+      },
+      "me sleep": {
+        "now": 1
+      },
+      "i eat": {
+        "fruit": 1,
+        "something": 1
+      },
+      "eat fruit": {
+        "now": 1
+      },
+      "me calm": {
+        "down": 1
+      },
+      "feel sad": {
+        "today": 1,
+        "here": 1,
+        "now": 1
+      },
+      "will rest": {
+        "now": 1
+      },
+      "to begin": {
+        "carefully": 1,
+        "again": 1,
+        "slowly": 1,
+        "alone": 1,
+        "now": 1
+      },
+      "please slow": {
+        "down": 1
+      },
+      "to repeat": {
+        "again": 1,
+        "slowly": 1,
+        "this": 1
+      },
+      "to eat": {
+        "vegetables": 1,
+        "now": 1,
+        "bread": 1,
+        "pasta": 1,
+        "fruit": 1,
+        "lunch": 1,
+        "dessert": 1,
+        "yogurt": 1,
+        "salad": 1,
+        "something": 1,
+        "dinner": 1,
+        "rice": 1,
+        "chocolate": 1,
+        "chicken": 1,
+        "cheese": 1
+      },
+      "feeling sad": {
+        "today": 1
+      },
+      "i like": {
+        "to": 2,
+        "that": 1,
+        "my": 1,
+        "music": 1,
+        "you": 1,
+        "ice": 1
+      },
+      "like to": {
+        "read": 1,
+        "listen": 1,
+        "explain": 1,
+        "talk": 1,
+        "write": 1,
+        "practice": 1,
+        "remember": 1,
+        "learn": 1,
+        "eat": 1,
+        "play": 2,
+        "wait": 1,
+        "understand": 1
+      },
+      "cannot feel": {
+        "strong": 1,
+        "better": 1,
+        "safe": 1,
+        "ready": 1,
+        "it": 1
+      },
+      "am ready": {
+        "to": 7,
+        "now": 1
+      },
+      "ready to": {
+        "talk": 1,
+        "focus": 1,
+        "listen": 1,
+        "go": 1,
+        "start": 1,
+        "eat": 1,
+        "learn": 1
+      },
+      "cannot explain": {
+        "this": 1
+      },
+      "me understand": {
+        "this": 1
+      },
+      "will eat": {
+        "now": 1
+      },
+      "to look": {
+        "there": 1,
+        "carefully": 1,
+        "slowly": 1,
+        "here": 1,
+        "closer": 1
+      },
+      "will draw": {
+        "now": 1
+      },
+      "to stop": {
+        "now": 4,
+        "playing": 2,
+        "this": 1,
+        "talking": 1,
+        "eating": 1
+      },
+      "feel angry": {
+        "here": 1,
+        "today": 1,
+        "now": 1
+      },
+      "feel lonely": {
+        "here": 1
+      },
+      "to wear": {
+        "shoes": 1,
+        "pants": 1
+      },
+      "me start": {
+        "now": 1
+      },
+      "that is": {
+        "not": 1,
+        "too": 3,
+        "good": 1
+      },
+      "is not": {
+        "good": 2,
+        "okay": 1,
+        "enough": 1
+      },
+      "want bigger": {
+        "buttons": 1
+      },
+      "to sit": {
+        "closer": 1,
+        "quietly": 1,
+        "down": 1,
+        "alone": 1,
+        "here": 1
+      },
+      "please try": {
+        "again": 1
+      },
+      "need a": {
+        "tablet": 1,
+        "hug": 2,
+        "blanket": 1,
+        "phone": 1,
+        "pen": 1,
+        "doctor": 1,
+        "pillow": 1,
+        "teacher": 1,
+        "computer": 1,
+        "table": 1,
+        "chair": 1
+      },
+      "a tablet": {
+        "please": 1
+      },
+      "it is": {
+        "too": 5,
+        "not": 2,
+        "okay": 1
+      },
+      "is too": {
+        "much": 2,
+        "loud": 1,
+        "easy": 1,
+        "hot": 1,
+        "fast": 1,
+        "quiet": 1,
+        "cold": 1,
+        "slow": 1
+      },
+      "to try": {
+        "this": 1,
+        "together": 1,
+        "now": 1,
+        "harder": 1,
+        "later": 1,
+        "again": 1,
+        "carefully": 1
+      },
+      "need my": {
+        "mom": 1,
+        "dad": 1
+      },
+      "my mom": {
+        "please": 1
+      },
+      "need more": {
+        "quiet": 1,
+        "space": 1,
+        "support": 1
+      },
+      "to continue": {
+        "now": 1,
+        "slowly": 1,
+        "later": 1
+      },
+      "me stand": {
+        "up": 2
+      },
+      "to walk": {
+        "slowly": 2,
+        "fast": 1
+      },
+      "a hug": {
+        "please": 1,
+        "now": 1
+      },
+      "feel calm": {
+        "today": 1,
+        "now": 1
+      },
+      "feeling good": {
+        "today": 1
+      },
+      "need water": {
+        "now": 2,
+        "please": 1
+      },
+      "to feel": {
+        "supported": 2,
+        "peaceful": 1,
+        "understood": 2,
+        "better": 1,
+        "confident": 1,
+        "calm": 1,
+        "loved": 1,
+        "relaxed": 1,
+        "safe": 1,
+        "stronger": 1
+      },
+      "more space": {
+        "now": 1
+      },
+      "will listen": {
+        "carefully": 1
+      },
+      "to remember": {
+        "later": 1,
+        "this": 2,
+        "again": 1,
+        "now": 1,
+        "slowly": 1
+      },
+      "a blanket": {
+        "please": 1
+      },
+      "feel scared": {
+        "now": 1,
+        "here": 1
+      },
+      "will wake": {
+        "up": 1
+      },
+      "wake up": {
+        "now": 1
+      },
+      "am playing": {
+        "now": 1
+      },
+      "need help": {
+        "now": 1,
+        "please": 1
+      },
+      "to play": {
+        "together": 1,
+        "alone": 1,
+        "inside": 1,
+        "outside": 1,
+        "quietly": 1,
+        "slowly": 1
+      },
+      "to lie": {
+        "down": 2
+      },
+      "cannot do": {
+        "it": 2
+      },
+      "feel hungry": {
+        "now": 1
+      },
+      "need quiet": {
+        "now": 1
+      },
+      "this is": {
+        "worse": 1,
+        "too": 1,
+        "not": 1,
+        "good": 1,
+        "enough": 1,
+        "better": 1
+      },
+      "to unpack": {
+        "this": 1
+      },
+      "to talk": {
+        "now": 2
+      },
+      "cannot calm": {
+        "down": 1
+      },
+      "please sit": {
+        "next": 1
+      },
+      "sit next": {
+        "to": 1
+      },
+      "next to": {
+        "me": 1
+      },
+      "cannot stand": {
+        "up": 1
+      },
+      "to listen": {
+        "again": 1,
+        "carefully": 2,
+        "quietly": 1
+      },
+      "i draw": {
+        "something": 1
+      },
+      "draw something": {
+        "nice": 1
+      },
+      "feeling calm": {
+        "today": 1
+      },
+      "to move": {
+        "there": 1,
+        "here": 1,
+        "closer": 1,
+        "carefully": 1,
+        "away": 1
+      },
+      "to help": {
+        "now": 1,
+        "you": 1
+      },
+      "i do": {
+        "not": 6
+      },
+      "do not": {
+        "like": 2,
+        "feel": 1,
+        "want": 2,
+        "remember": 1
+      },
+      "not like": {
+        "this": 1,
+        "that": 1
+      },
+      "to forget": {
+        "this": 1,
+        "slowly": 1
+      },
+      "can stand": {
+        "still": 1
+      },
+      "can try": {
+        "again": 2
+      },
+      "will answer": {
+        "now": 1
+      },
+      "need music": {
+        "please": 1
+      },
+      "to be": {
+        "patient": 1,
+        "understood": 2,
+        "alone": 1,
+        "brave": 1,
+        "quiet": 1,
+        "heard": 1,
+        "calm": 1,
+        "louder": 1,
+        "kind": 1,
+        "happy": 1
+      },
+      "i go": {
+        "to": 1
+      },
+      "go to": {
+        "school": 2
+      },
+      "want smaller": {
+        "buttons": 1
+      },
+      "am resting": {
+        "now": 1
+      },
+      "my ear": {
+        "hurts": 2
+      },
+      "ear hurts": {
+        "a": 1
+      },
+      "am not": {
+        "okay": 2,
+        "ready": 1
+      },
+      "please turn": {
+        "off": 2,
+        "on": 2
+      },
+      "turn off": {
+        "the": 2
+      },
+      "off the": {
+        "television": 1,
+        "light": 1
+      },
+      "can answer": {
+        "now": 1
+      },
+      "to take": {
+        "medicine": 1
+      },
+      "am calming": {
+        "down": 1
+      },
+      "calming down": {
+        "now": 1
+      },
+      "i have": {
+        "medicine": 1,
+        "help": 1,
+        "water": 1
+      },
+      "have medicine": {
+        "please": 1
+      },
+      "feel proud": {
+        "today": 1
+      },
+      "am with": {
+        "you": 1
+      },
+      "cannot play": {
+        "now": 1
+      },
+      "can ask": {
+        "a": 1
+      },
+      "ask a": {
+        "question": 1
+      },
+      "need time": {
+        "now": 1
+      },
+      "cannot remember": {
+        "now": 1
+      },
+      "need attention": {
+        "now": 2
+      },
+      "will sit": {
+        "down": 1,
+        "here": 1
+      },
+      "cannot be": {
+        "alone": 1,
+        "quiet": 1
+      },
+      "need someone": {
+        "with": 1
+      },
+      "someone with": {
+        "me": 1
+      },
+      "please stop": {
+        "for": 1
+      },
+      "stop for": {
+        "a": 1
+      },
+      "for a": {
+        "moment": 1
+      },
+      "to buy": {
+        "water": 1
+      },
+      "cannot talk": {
+        "now": 1
+      },
+      "will try": {
+        "again": 1,
+        "with": 1
+      },
+      "want something": {
+        "else": 2,
+        "new": 1,
+        "different": 1
+      },
+      "feeling weak": {
+        "today": 1
+      },
+      "my leg": {
+        "hurts": 2
+      },
+      "will lie": {
+        "down": 2
+      },
+      "lie down": {
+        "now": 1
+      },
+      "to come": {
+        "inside": 1,
+        "back": 1,
+        "now": 1
+      },
+      "am writing": {
+        "now": 1
+      },
+      "to sleep": {
+        "now": 2,
+        "longer": 1
+      },
+      "am waking": {
+        "up": 1
+      },
+      "to calm": {
+        "down": 3
+      },
+      "to speak": {
+        "quietly": 1,
+        "clearly": 1
+      },
+      "can listen": {
+        "carefully": 1
+      },
+      "feeling worse": {
+        "now": 1,
+        "today": 1
+      },
+      "will stop": {
+        "this": 1,
+        "now": 1
+      },
+      "am sitting": {
+        "here": 1
+      },
+      "my tooth": {
+        "hurts": 2
+      },
+      "tooth hurts": {
+        "very": 1
+      },
+      "hurts very": {
+        "much": 2
+      },
+      "to communicate": {
+        "better": 1,
+        "faster": 1
+      },
+      "my hand": {
+        "hurts": 1
+      },
+      "will move": {
+        "now": 1
+      },
+      "not feel": {
+        "well": 1
+      },
+      "a phone": {
+        "please": 1
+      },
+      "cannot choose": {
+        "now": 1
+      },
+      "feel weak": {
+        "today": 1,
+        "now": 1
+      },
+      "i understand": {
+        "a": 1,
+        "now": 1
+      },
+      "understand a": {
+        "little": 1
+      },
+      "me finish": {
+        "this": 1
+      },
+      "to respond": {
+        "now": 1,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "my back": {
+        "hurts": 1
+      },
+      "back hurts": {
+        "this": 1
+      },
+      "hurts this": {
+        "morning": 1
+      },
+      "to learn": {
+        "today": 1,
+        "more": 1
+      },
+      "will read": {
+        "now": 1
+      },
+      "cannot try": {
+        "now": 1,
+        "again": 2
+      },
+      "please give": {
+        "me": 4
+      },
+      "give me": {
+        "time": 2,
+        "food": 1,
+        "space": 1
+      },
+      "leg hurts": {
+        "there": 1
+      },
+      "feel sleepy": {
+        "now": 1
+      },
+      "like some": {
+        "water": 1,
+        "quiet": 1,
+        "help": 1,
+        "space": 1,
+        "food": 1,
+        "time": 1
+      },
+      "will walk": {
+        "now": 1
+      },
+      "feeling bad": {
+        "today": 1
+      },
+      "to import": {
+        "sentences": 1
+      },
+      "feel bored": {
+        "here": 1
+      },
+      "have help": {
+        "please": 1
+      },
+      "not want": {
+        "this": 1,
+        "that": 1
+      },
+      "to say": {
+        "something": 2,
+        "sorry": 1,
+        "goodbye": 1,
+        "hello": 1
+      },
+      "feel loved": {
+        "today": 1
+      },
+      "can focus": {
+        "now": 1
+      },
+      "my head": {
+        "hurts": 1
+      },
+      "feeling angry": {
+        "today": 1
+      },
+      "am trying": {
+        "again": 1,
+        "slowly": 1
+      },
+      "have water": {
+        "please": 1
+      },
+      "need medicine": {
+        "now": 1
+      },
+      "please come": {
+        "here": 1
+      },
+      "need rest": {
+        "now": 1
+      },
+      "please look": {
+        "at": 1
+      },
+      "look at": {
+        "me": 1
+      },
+      "do it": {
+        "alone": 2
+      },
+      "can finish": {
+        "this": 1
+      },
+      "i open": {
+        "the": 3
+      },
+      "open the": {
+        "door": 2,
+        "window": 1,
+        "box": 1
+      },
+      "feel ready": {
+        "today": 1,
+        "now": 1
+      },
+      "need food": {
+        "now": 1,
+        "please": 1
+      },
+      "a pen": {
+        "please": 1
+      },
+      "can wait": {
+        "here": 1
+      },
+      "please open": {
+        "the": 1
+      },
+      "me open": {
+        "it": 1
+      },
+      "turn on": {
+        "the": 2
+      },
+      "on the": {
+        "television": 1,
+        "light": 1
+      },
+      "to do": {
+        "homework": 1
+      },
+      "to ask": {
+        "again": 1,
+        "clearly": 1,
+        "now": 1,
+        "something": 1
+      },
+      "am helping": {
+        "now": 1
+      },
+      "want the": {
+        "screen": 1
+      },
+      "the screen": {
+        "brighter": 1
+      },
+      "to fix": {
+        "this": 1
+      },
+      "feel worse": {
+        "now": 2
+      },
+      "to slow": {
+        "down": 1
+      },
+      "a doctor": {
+        "please": 1
+      },
+      "cannot answer": {
+        "now": 1
+      },
+      "me find": {
+        "it": 1
+      },
+      "to kiss": {
+        "you": 1
+      },
+      "will wait": {
+        "here": 1,
+        "for": 1
+      },
+      "will go": {
+        "to": 1,
+        "outside": 1
+      },
+      "to visit": {
+        "friends": 1
+      },
+      "not okay": {
+        "now": 1
+      },
+      "am moving": {
+        "now": 1
+      },
+      "to explain": {
+        "now": 1,
+        "again": 1,
+        "myself": 1
+      },
+      "a pillow": {
+        "please": 1
+      },
+      "try with": {
+        "help": 1
+      },
+      "feel okay": {
+        "today": 1
+      },
+      "drink orange": {
+        "juice": 1
+      },
+      "need less": {
+        "light": 1
+      },
+      "try again": {
+        "now": 1
+      },
+      "cannot drink": {
+        "now": 1
+      },
+      "like my": {
+        "teacher": 1
+      },
+      "my stomach": {
+        "hurts": 1
+      },
+      "stomach hurts": {
+        "very": 1
+      },
+      "to rest": {
+        "now": 2
+      },
+      "feel nervous": {
+        "here": 1
+      },
+      "can do": {
+        "it": 2
+      },
+      "feeling nervous": {
+        "today": 1
+      },
+      "can stop": {
+        "now": 1
+      },
+      "will ask": {
+        "now": 1
+      },
+      "to organize": {
+        "this": 1
+      },
+      "to watch": {
+        "tv": 1
+      },
+      "am lying": {
+        "down": 1,
+        "in": 1
+      },
+      "it hurts": {
+        "when": 2
+      },
+      "hurts when": {
+        "i": 2
+      },
+      "when i": {
+        "walk": 1,
+        "sit": 1
+      },
+      "my dad": {
+        "please": 1
+      },
+      "to dance": {
+        "now": 1
+      },
+      "feeling okay": {
+        "today": 1
+      },
+      "will drink": {
+        "now": 1
+      },
+      "will continue": {
+        "now": 1
+      },
+      "want soap": {
+        "please": 1
+      },
+      "want shampoo": {
+        "please": 1
+      },
+      "a teacher": {
+        "please": 1
+      },
+      "will choose": {
+        "another": 1
+      },
+      "choose another": {
+        "one": 2
+      },
+      "to tidy": {
+        "up": 1
+      },
+      "cannot listen": {
+        "now": 1
+      },
+      "to write": {
+        "something": 1
+      },
+      "will calm": {
+        "down": 2
+      },
+      "calm down": {
+        "now": 1
+      },
+      "i watch": {
+        "television": 1
+      },
+      "watch television": {
+        "today": 1
+      },
+      "want another": {
+        "one": 1
+      },
+      "feel happy": {
+        "here": 1,
+        "now": 1
+      },
+      "cannot continue": {
+        "now": 1
+      },
+      "please stand": {
+        "up": 1
+      },
+      "cannot understand": {
+        "this": 1
+      },
+      "lying in": {
+        "bed": 1
+      },
+      "can choose": {
+        "another": 1,
+        "this": 1
+      },
+      "like ice": {
+        "cream": 1
+      },
+      "am at": {
+        "home": 1,
+        "school": 1
+      },
+      "feel excited": {
+        "here": 1
+      },
+      "a computer": {
+        "please": 1
+      },
+      "me walk": {
+        "slowly": 1
+      },
+      "will learn": {
+        "now": 1
+      },
+      "cannot move": {
+        "now": 1
+      },
+      "to jump": {
+        "high": 1
+      },
+      "feel excellent": {
+        "today": 1
+      },
+      "me close": {
+        "it": 1
+      },
+      "feel not": {
+        "ready": 1
+      },
+      "feeling ready": {
+        "today": 1
+      },
+      "me to": {
+        "school": 1
+      },
+      "cannot finish": {
+        "this": 1
+      },
+      "will breathe": {
+        "slowly": 1
+      },
+      "feeling strong": {
+        "today": 1
+      },
+      "feeling scared": {
+        "today": 1
+      },
+      "please be": {
+        "patient": 1,
+        "quiet": 1
+      },
+      "my arm": {
+        "hurts": 1
+      },
+      "a table": {
+        "please": 1
+      },
+      "need support": {
+        "now": 1
+      },
+      "cannot eat": {
+        "now": 1
+      },
+      "am okay": {
+        "now": 1
+      },
+      "me try": {
+        "again": 1
+      },
+      "please listen": {
+        "to": 1
+      },
+      "listen to": {
+        "me": 1
+      },
+      "am walking": {
+        "slowly": 1
+      },
+      "am eating": {
+        "now": 1
+      },
+      "me sit": {
+        "down": 1
+      },
+      "can calm": {
+        "down": 1
+      },
+      "wait for": {
+        "you": 1
+      },
+      "i close": {
+        "the": 1
+      },
+      "close the": {
+        "door": 1
+      },
+      "need paper": {
+        "please": 1
+      },
+      "to clean": {
+        "this": 1
+      },
+      "feel bad": {
+        "today": 1
+      },
+      "to flush": {
+        "please": 1
+      },
+      "am thinking": {
+        "now": 1
+      },
+      "will write": {
+        "now": 1
+      },
+      "am standing": {
+        "here": 1
+      },
+      "cannot stay": {
+        "here": 1
+      },
+      "feel thirsty": {
+        "today": 1,
+        "now": 1
+      },
+      "my whole": {
+        "body": 1
+      },
+      "whole body": {
+        "hurts": 1
+      },
+      "body hurts": {
+        "today": 1
+      },
+      "feel sick": {
+        "today": 1
+      },
+      "eat something": {
+        "sweet": 1
+      },
+      "will start": {
+        "now": 1
+      },
+      "can breathe": {
+        "slowly": 1
+      },
+      "cannot focus": {
+        "now": 1
+      },
+      "will come": {
+        "now": 1
+      },
+      "cannot decide": {
+        "now": 1
+      },
+      "something else": {
+        "now": 1
+      },
+      "a chair": {
+        "please": 1
+      },
+      "please call": {
+        "the": 1
+      },
+      "call the": {
+        "doctor": 1
+      }
+    },
+    "3": {
+      "please take me": {
+        "outside": 1,
+        "to": 1
+      },
+      "i need space": {
+        "please": 1,
+        "now": 1
+      },
+      "i cannot help": {
+        "now": 2
+      },
+      "i need to": {
+        "start": 1,
+        "listen": 1,
+        "stand": 1,
+        "rest": 2,
+        "breathe": 2,
+        "stop": 1,
+        "walk": 1,
+        "lie": 2,
+        "sit": 1,
+        "talk": 1,
+        "go": 2,
+        "eat": 2,
+        "finish": 1,
+        "take": 1,
+        "feel": 4,
+        "sleep": 2,
+        "calm": 2,
+        "wait": 1,
+        "say": 1,
+        "remember": 1,
+        "relax": 1,
+        "understand": 1,
+        "explain": 1,
+        "decide": 1,
+        "drink": 1,
+        "choose": 1,
+        "focus": 1,
+        "ask": 1,
+        "see": 1,
+        "practice": 1
+      },
+      "need to start": {
+        "now": 1
+      },
+      "i want to": {
+        "finish": 6,
+        "hear": 4,
+        "see": 3,
+        "focus": 5,
+        "wait": 8,
+        "understand": 4,
+        "choose": 5,
+        "drink": 6,
+        "decide": 4,
+        "think": 5,
+        "stay": 7,
+        "answer": 5,
+        "practice": 6,
+        "go": 9,
+        "check": 3,
+        "begin": 5,
+        "repeat": 3,
+        "eat": 13,
+        "confirm": 1,
+        "look": 5,
+        "wear": 2,
+        "sit": 4,
+        "try": 7,
+        "continue": 4,
+        "stop": 8,
+        "speak": 3,
+        "feel": 8,
+        "remember": 6,
+        "smile": 1,
+        "play": 6,
+        "unpack": 1,
+        "share": 1,
+        "listen": 4,
+        "walk": 2,
+        "move": 6,
+        "help": 2,
+        "forget": 2,
+        "be": 11,
+        "cancel": 1,
+        "buy": 1,
+        "start": 3,
+        "come": 3,
+        "communicate": 2,
+        "relax": 1,
+        "respond": 3,
+        "learn": 2,
+        "stand": 2,
+        "import": 1,
+        "calm": 1,
+        "say": 4,
+        "do": 1,
+        "ask": 3,
+        "fix": 1,
+        "slow": 1,
+        "rest": 2,
+        "kiss": 1,
+        "visit": 1,
+        "cry": 1,
+        "sleep": 2,
+        "organize": 1,
+        "watch": 1,
+        "dance": 1,
+        "explain": 2,
+        "tidy": 1,
+        "write": 1,
+        "talk": 1,
+        "apologize": 1,
+        "jump": 1,
+        "clean": 1,
+        "flush": 1
+      },
+      "want to finish": {
+        "slowly": 1,
+        "eating": 1,
+        "playing": 1,
+        "calibration": 1,
+        "now": 1
+      },
+      "i feel great": {
+        "today": 1
+      },
+      "want to hear": {
+        "clearly": 1,
+        "slowly": 1,
+        "you": 1,
+        "again": 1
+      },
+      "want to see": {
+        "slowly": 1,
+        "again": 1,
+        "accuracy": 1
+      },
+      "i cannot start": {
+        "now": 1
+      },
+      "i will stay": {
+        "here": 1
+      },
+      "please help me": {
+        "walk": 2,
+        "sleep": 1,
+        "calm": 1,
+        "understand": 1,
+        "start": 1,
+        "stand": 2,
+        "quickly": 1,
+        "play": 1,
+        "draw": 1,
+        "bathe": 1,
+        "choose": 1,
+        "decide": 1,
+        "finish": 1,
+        "listen": 1,
+        "open": 1,
+        "find": 1,
+        "drink": 1,
+        "talk": 1,
+        "again": 1,
+        "write": 1,
+        "rest": 1,
+        "now": 1,
+        "read": 1,
+        "close": 1,
+        "move": 1,
+        "eat": 1,
+        "try": 1,
+        "sit": 1
+      },
+      "want to focus": {
+        "carefully": 1,
+        "better": 1,
+        "more": 1,
+        "quietly": 1,
+        "now": 1
+      },
+      "need to stand": {
+        "up": 1
+      },
+      "want to wait": {
+        "outside": 2,
+        "quietly": 1,
+        "here": 3,
+        "there": 1
+      },
+      "i feel safe": {
+        "today": 1,
+        "here": 1
+      },
+      "my throat hurts": {
+        "a": 1
+      },
+      "throat hurts a": {
+        "lot": 1
+      },
+      "want to understand": {
+        "better": 1,
+        "everything": 1,
+        "slowly": 1
+      },
+      "can i drink": {
+        "cold": 1,
+        "orange": 1
+      },
+      "i drink cold": {
+        "water": 1
+      },
+      "i will feel": {
+        "calm": 1,
+        "ready": 1,
+        "better": 1,
+        "safe": 1
+      },
+      "please stay with": {
+        "me": 1
+      },
+      "want to choose": {
+        "together": 1,
+        "carefully": 1,
+        "slowly": 1,
+        "now": 1,
+        "again": 1
+      },
+      "want to drink": {
+        "slowly": 1,
+        "water": 1,
+        "milk": 1,
+        "coffee": 1,
+        "juice": 1,
+        "less": 1
+      },
+      "want to decide": {
+        "now": 1,
+        "later": 1,
+        "together": 1,
+        "slowly": 1
+      },
+      "i feel better": {
+        "now": 1
+      },
+      "want to think": {
+        "quietly": 3,
+        "alone": 1
+      },
+      "want to stay": {
+        "longer": 1,
+        "safe": 1,
+        "calm": 1,
+        "alone": 1,
+        "quiet": 1,
+        "here": 1,
+        "focused": 1
+      },
+      "i feel confused": {
+        "today": 1,
+        "here": 1
+      },
+      "want to answer": {
+        "now": 2,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "i will play": {
+        "now": 1
+      },
+      "i am feeling": {
+        "tired": 1,
+        "better": 2,
+        "calm": 2,
+        "sad": 1,
+        "worse": 3,
+        "good": 1,
+        "unsafe": 1,
+        "weak": 1,
+        "bad": 1,
+        "angry": 1,
+        "nervous": 2,
+        "okay": 1,
+        "safe": 1,
+        "ready": 1,
+        "strong": 1,
+        "scared": 1,
+        "confused": 1
+      },
+      "am feeling tired": {
+        "today": 1
+      },
+      "i will be": {
+        "patient": 1,
+        "strong": 1,
+        "kind": 1,
+        "calm": 1,
+        "ready": 1,
+        "brave": 1
+      },
+      "want to practice": {
+        "slowly": 1,
+        "again": 1,
+        "more": 1,
+        "now": 1,
+        "speaking": 1
+      },
+      "am feeling better": {
+        "today": 1
+      },
+      "i feel stressed": {
+        "today": 1,
+        "now": 1
+      },
+      "want to go": {
+        "last": 1,
+        "outside": 1,
+        "back": 2,
+        "downstairs": 1,
+        "home": 1,
+        "alone": 1,
+        "together": 1,
+        "first": 1
+      },
+      "i would like": {
+        "a": 2,
+        "to": 11,
+        "some": 6
+      },
+      "would like a": {
+        "hug": 1,
+        "break": 1
+      },
+      "need to breathe": {
+        "slowly": 2
+      },
+      "i will stand": {
+        "up": 1
+      },
+      "want to check": {
+        "again": 1,
+        "slowly": 1,
+        "carefully": 1
+      },
+      "help me sleep": {
+        "now": 1
+      },
+      "can i eat": {
+        "fruit": 1,
+        "something": 1
+      },
+      "i eat fruit": {
+        "now": 1
+      },
+      "help me calm": {
+        "down": 1
+      },
+      "i feel sad": {
+        "today": 1,
+        "here": 1,
+        "now": 1
+      },
+      "i will rest": {
+        "now": 1
+      },
+      "want to begin": {
+        "carefully": 1,
+        "again": 1,
+        "slowly": 1,
+        "alone": 1,
+        "now": 1
+      },
+      "want to repeat": {
+        "again": 1,
+        "slowly": 1,
+        "this": 1
+      },
+      "want to eat": {
+        "vegetables": 1,
+        "bread": 1,
+        "pasta": 1,
+        "fruit": 1,
+        "lunch": 1,
+        "dessert": 1,
+        "yogurt": 1,
+        "salad": 1,
+        "dinner": 1,
+        "rice": 1,
+        "chocolate": 1,
+        "chicken": 1,
+        "cheese": 1
+      },
+      "am feeling sad": {
+        "today": 1
+      },
+      "i like to": {
+        "read": 1,
+        "play": 1
+      },
+      "i cannot feel": {
+        "strong": 1,
+        "better": 1,
+        "safe": 1,
+        "ready": 1,
+        "it": 1
+      },
+      "i am ready": {
+        "to": 7,
+        "now": 1
+      },
+      "am ready to": {
+        "talk": 1,
+        "focus": 1,
+        "listen": 1,
+        "go": 1,
+        "start": 1,
+        "eat": 1,
+        "learn": 1
+      },
+      "i cannot explain": {
+        "this": 1
+      },
+      "help me understand": {
+        "this": 1
+      },
+      "i will eat": {
+        "now": 1
+      },
+      "want to look": {
+        "there": 1,
+        "carefully": 1,
+        "slowly": 1,
+        "here": 1,
+        "closer": 1
+      },
+      "i will draw": {
+        "now": 1
+      },
+      "need to stop": {
+        "now": 1
+      },
+      "i feel angry": {
+        "here": 1,
+        "today": 1,
+        "now": 1
+      },
+      "i feel lonely": {
+        "here": 1
+      },
+      "want to wear": {
+        "shoes": 1,
+        "pants": 1
+      },
+      "help me start": {
+        "now": 1
+      },
+      "that is not": {
+        "good": 1
+      },
+      "i want bigger": {
+        "buttons": 1
+      },
+      "want to sit": {
+        "closer": 1,
+        "quietly": 1,
+        "alone": 1,
+        "here": 1
+      },
+      "i need a": {
+        "tablet": 1,
+        "hug": 2,
+        "blanket": 1,
+        "phone": 1,
+        "pen": 1,
+        "doctor": 1,
+        "pillow": 1,
+        "teacher": 1,
+        "computer": 1,
+        "table": 1,
+        "chair": 1
+      },
+      "need a tablet": {
+        "please": 1
+      },
+      "it is too": {
+        "much": 1,
+        "loud": 1,
+        "hot": 1,
+        "quiet": 1,
+        "cold": 1
+      },
+      "want to try": {
+        "this": 1,
+        "together": 1,
+        "now": 1,
+        "harder": 1,
+        "later": 1,
+        "again": 1,
+        "carefully": 1
+      },
+      "i need my": {
+        "mom": 1,
+        "dad": 1
+      },
+      "need my mom": {
+        "please": 1
+      },
+      "i need more": {
+        "quiet": 1,
+        "space": 1,
+        "support": 1
+      },
+      "want to continue": {
+        "now": 1,
+        "slowly": 1,
+        "later": 1
+      },
+      "help me stand": {
+        "up": 2
+      },
+      "need to walk": {
+        "slowly": 1
+      },
+      "it is not": {
+        "okay": 1,
+        "enough": 1
+      },
+      "need a hug": {
+        "please": 1,
+        "now": 1
+      },
+      "i feel calm": {
+        "today": 1,
+        "now": 1
+      },
+      "am feeling good": {
+        "today": 1
+      },
+      "i need water": {
+        "now": 2,
+        "please": 1
+      },
+      "want to stop": {
+        "now": 3,
+        "playing": 2,
+        "this": 1,
+        "talking": 1,
+        "eating": 1
+      },
+      "want to feel": {
+        "supported": 1,
+        "peaceful": 1,
+        "understood": 1,
+        "better": 1,
+        "confident": 1,
+        "loved": 1,
+        "relaxed": 1,
+        "stronger": 1
+      },
+      "need more space": {
+        "now": 1
+      },
+      "i will listen": {
+        "carefully": 1
+      },
+      "want to remember": {
+        "later": 1,
+        "this": 2,
+        "again": 1,
+        "slowly": 1
+      },
+      "need a blanket": {
+        "please": 1
+      },
+      "i feel scared": {
+        "now": 1,
+        "here": 1
+      },
+      "i will wake": {
+        "up": 1
+      },
+      "will wake up": {
+        "now": 1
+      },
+      "i am playing": {
+        "now": 1
+      },
+      "i need help": {
+        "now": 1,
+        "please": 1
+      },
+      "want to play": {
+        "together": 1,
+        "alone": 1,
+        "inside": 1,
+        "outside": 1,
+        "quietly": 1,
+        "slowly": 1
+      },
+      "would like to": {
+        "listen": 1,
+        "explain": 1,
+        "talk": 1,
+        "write": 1,
+        "practice": 1,
+        "remember": 1,
+        "learn": 1,
+        "eat": 1,
+        "wait": 1,
+        "play": 1,
+        "understand": 1
+      },
+      "need to lie": {
+        "down": 2
+      },
+      "i cannot do": {
+        "it": 2
+      },
+      "i feel hungry": {
+        "now": 1
+      },
+      "i need quiet": {
+        "now": 1
+      },
+      "want to unpack": {
+        "this": 1
+      },
+      "need to sit": {
+        "down": 1
+      },
+      "need to talk": {
+        "now": 1
+      },
+      "need to go": {
+        "outside": 1,
+        "home": 1
+      },
+      "i cannot calm": {
+        "down": 1
+      },
+      "need to eat": {
+        "now": 1,
+        "something": 1
+      },
+      "please sit next": {
+        "to": 1
+      },
+      "sit next to": {
+        "me": 1
+      },
+      "i cannot stand": {
+        "up": 1
+      },
+      "want to listen": {
+        "again": 1,
+        "carefully": 2,
+        "quietly": 1
+      },
+      "can i draw": {
+        "something": 1
+      },
+      "i draw something": {
+        "nice": 1
+      },
+      "am feeling calm": {
+        "today": 1
+      },
+      "want to walk": {
+        "fast": 1,
+        "slowly": 1
+      },
+      "want to move": {
+        "there": 1,
+        "here": 1,
+        "closer": 1,
+        "carefully": 1,
+        "away": 1
+      },
+      "want to help": {
+        "now": 1,
+        "you": 1
+      },
+      "i do not": {
+        "like": 2,
+        "feel": 1,
+        "want": 2,
+        "remember": 1
+      },
+      "do not like": {
+        "this": 1,
+        "that": 1
+      },
+      "want to forget": {
+        "this": 1,
+        "slowly": 1
+      },
+      "i can stand": {
+        "still": 1
+      },
+      "i can try": {
+        "again": 2
+      },
+      "i will answer": {
+        "now": 1
+      },
+      "i need music": {
+        "please": 1
+      },
+      "need to finish": {
+        "this": 1
+      },
+      "want to be": {
+        "patient": 1,
+        "understood": 2,
+        "alone": 1,
+        "brave": 1,
+        "quiet": 1,
+        "heard": 1,
+        "calm": 1,
+        "louder": 1,
+        "kind": 1,
+        "happy": 1
+      },
+      "can i go": {
+        "to": 1
+      },
+      "i go to": {
+        "school": 1
+      },
+      "i want smaller": {
+        "buttons": 1
+      },
+      "i am resting": {
+        "now": 1
+      },
+      "my ear hurts": {
+        "a": 1
+      },
+      "ear hurts a": {
+        "lot": 1
+      },
+      "i am not": {
+        "okay": 2,
+        "ready": 1
+      },
+      "please turn off": {
+        "the": 2
+      },
+      "turn off the": {
+        "television": 1,
+        "light": 1
+      },
+      "i can answer": {
+        "now": 1
+      },
+      "need to take": {
+        "medicine": 1
+      },
+      "i am calming": {
+        "down": 1
+      },
+      "am calming down": {
+        "now": 1
+      },
+      "can i have": {
+        "medicine": 1,
+        "help": 1,
+        "water": 1
+      },
+      "i have medicine": {
+        "please": 1
+      },
+      "i feel proud": {
+        "today": 1
+      },
+      "i am with": {
+        "you": 1
+      },
+      "i cannot play": {
+        "now": 1
+      },
+      "i can ask": {
+        "a": 1
+      },
+      "can ask a": {
+        "question": 1
+      },
+      "i need time": {
+        "now": 1
+      },
+      "need to feel": {
+        "supported": 1,
+        "calm": 1,
+        "understood": 1,
+        "safe": 1
+      },
+      "i cannot remember": {
+        "now": 1
+      },
+      "i need attention": {
+        "now": 2
+      },
+      "i will sit": {
+        "down": 1,
+        "here": 1
+      },
+      "i cannot be": {
+        "alone": 1,
+        "quiet": 1
+      },
+      "i need someone": {
+        "with": 1
+      },
+      "need someone with": {
+        "me": 1
+      },
+      "please stop for": {
+        "a": 1
+      },
+      "stop for a": {
+        "moment": 1
+      },
+      "want to buy": {
+        "water": 1
+      },
+      "i cannot talk": {
+        "now": 1
+      },
+      "i will try": {
+        "again": 1,
+        "with": 1
+      },
+      "i want something": {
+        "else": 2,
+        "new": 1,
+        "different": 1
+      },
+      "am feeling weak": {
+        "today": 1
+      },
+      "want to start": {
+        "again": 2,
+        "now": 1
+      },
+      "i will lie": {
+        "down": 2
+      },
+      "will lie down": {
+        "now": 1
+      },
+      "want to come": {
+        "inside": 1,
+        "back": 1,
+        "now": 1
+      },
+      "i am writing": {
+        "now": 1
+      },
+      "need to sleep": {
+        "now": 1
+      },
+      "that is too": {
+        "easy": 1,
+        "fast": 1,
+        "slow": 1
+      },
+      "i am waking": {
+        "up": 1
+      },
+      "need to calm": {
+        "down": 2
+      },
+      "want to speak": {
+        "quietly": 1,
+        "clearly": 1
+      },
+      "i can listen": {
+        "carefully": 1
+      },
+      "am feeling worse": {
+        "now": 1,
+        "today": 1
+      },
+      "i will stop": {
+        "this": 1,
+        "now": 1
+      },
+      "i am sitting": {
+        "here": 1
+      },
+      "my tooth hurts": {
+        "very": 1
+      },
+      "tooth hurts very": {
+        "much": 1
+      },
+      "want to communicate": {
+        "better": 1,
+        "faster": 1
+      },
+      "i will move": {
+        "now": 1
+      },
+      "do not feel": {
+        "well": 1
+      },
+      "need a phone": {
+        "please": 1
+      },
+      "i cannot choose": {
+        "now": 1
+      },
+      "i feel weak": {
+        "today": 1,
+        "now": 1
+      },
+      "i understand a": {
+        "little": 1
+      },
+      "help me finish": {
+        "this": 1
+      },
+      "want to respond": {
+        "now": 1,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "my back hurts": {
+        "this": 1
+      },
+      "back hurts this": {
+        "morning": 1
+      },
+      "want to learn": {
+        "today": 1,
+        "more": 1
+      },
+      "i will read": {
+        "now": 1
+      },
+      "want to stand": {
+        "here": 1,
+        "still": 1
+      },
+      "i cannot try": {
+        "now": 1,
+        "again": 2
+      },
+      "please give me": {
+        "time": 2,
+        "food": 1,
+        "space": 1
+      },
+      "my leg hurts": {
+        "there": 1
+      },
+      "i feel sleepy": {
+        "now": 1
+      },
+      "would like some": {
+        "water": 1,
+        "quiet": 1,
+        "help": 1,
+        "space": 1,
+        "food": 1,
+        "time": 1
+      },
+      "i will walk": {
+        "now": 1
+      },
+      "am feeling bad": {
+        "today": 1
+      },
+      "want to import": {
+        "sentences": 1
+      },
+      "i feel bored": {
+        "here": 1
+      },
+      "i have help": {
+        "please": 1
+      },
+      "do not want": {
+        "this": 1,
+        "that": 1
+      },
+      "need to say": {
+        "something": 1
+      },
+      "i feel loved": {
+        "today": 1
+      },
+      "i can focus": {
+        "now": 1
+      },
+      "need to remember": {
+        "now": 1
+      },
+      "am feeling angry": {
+        "today": 1
+      },
+      "i am trying": {
+        "again": 1,
+        "slowly": 1
+      },
+      "want to calm": {
+        "down": 1
+      },
+      "i have water": {
+        "please": 1
+      },
+      "i need medicine": {
+        "now": 1
+      },
+      "i need rest": {
+        "now": 1
+      },
+      "please look at": {
+        "me": 1
+      },
+      "cannot do it": {
+        "alone": 1
+      },
+      "i can finish": {
+        "this": 1
+      },
+      "can i open": {
+        "the": 3
+      },
+      "i open the": {
+        "door": 1,
+        "window": 1,
+        "box": 1
+      },
+      "i feel ready": {
+        "today": 1,
+        "now": 1
+      },
+      "i need food": {
+        "now": 1,
+        "please": 1
+      },
+      "need a pen": {
+        "please": 1
+      },
+      "want to say": {
+        "sorry": 1,
+        "goodbye": 1,
+        "something": 1,
+        "hello": 1
+      },
+      "i can wait": {
+        "here": 1
+      },
+      "please open the": {
+        "door": 1
+      },
+      "help me open": {
+        "it": 1
+      },
+      "please turn on": {
+        "the": 2
+      },
+      "turn on the": {
+        "television": 1,
+        "light": 1
+      },
+      "want to do": {
+        "homework": 1
+      },
+      "want to ask": {
+        "again": 1,
+        "clearly": 1,
+        "now": 1
+      },
+      "i am helping": {
+        "now": 1
+      },
+      "i want the": {
+        "screen": 1
+      },
+      "want the screen": {
+        "brighter": 1
+      },
+      "want to fix": {
+        "this": 1
+      },
+      "i feel worse": {
+        "now": 2
+      },
+      "need to understand": {
+        "now": 1
+      },
+      "want to slow": {
+        "down": 1
+      },
+      "need a doctor": {
+        "please": 1
+      },
+      "i cannot answer": {
+        "now": 1
+      },
+      "help me find": {
+        "it": 1
+      },
+      "want to kiss": {
+        "you": 1
+      },
+      "i will wait": {
+        "here": 1,
+        "for": 1
+      },
+      "i will go": {
+        "to": 1,
+        "outside": 1
+      },
+      "will go to": {
+        "school": 1
+      },
+      "want to visit": {
+        "friends": 1
+      },
+      "am not okay": {
+        "now": 1
+      },
+      "i am moving": {
+        "now": 1
+      },
+      "need to explain": {
+        "now": 1
+      },
+      "need a pillow": {
+        "please": 1
+      },
+      "will try with": {
+        "help": 1
+      },
+      "i feel okay": {
+        "today": 1
+      },
+      "i drink orange": {
+        "juice": 1
+      },
+      "i need less": {
+        "light": 1
+      },
+      "can try again": {
+        "now": 1
+      },
+      "i cannot drink": {
+        "now": 1
+      },
+      "i like my": {
+        "teacher": 1
+      },
+      "my stomach hurts": {
+        "very": 1
+      },
+      "stomach hurts very": {
+        "much": 1
+      },
+      "want to rest": {
+        "now": 1
+      },
+      "i feel nervous": {
+        "here": 1
+      },
+      "i can do": {
+        "it": 2
+      },
+      "need to decide": {
+        "now": 1
+      },
+      "want to sleep": {
+        "now": 1,
+        "longer": 1
+      },
+      "am feeling nervous": {
+        "today": 1
+      },
+      "i can stop": {
+        "now": 1
+      },
+      "can do it": {
+        "alone": 1
+      },
+      "i will ask": {
+        "now": 1
+      },
+      "want to organize": {
+        "this": 1
+      },
+      "want to watch": {
+        "tv": 1
+      },
+      "i am lying": {
+        "down": 1,
+        "in": 1
+      },
+      "it hurts when": {
+        "i": 2
+      },
+      "hurts when i": {
+        "walk": 1,
+        "sit": 1
+      },
+      "need to drink": {
+        "now": 1
+      },
+      "need my dad": {
+        "please": 1
+      },
+      "want to dance": {
+        "now": 1
+      },
+      "am feeling okay": {
+        "today": 1
+      },
+      "i will drink": {
+        "now": 1
+      },
+      "need to choose": {
+        "now": 1
+      },
+      "want to explain": {
+        "again": 1,
+        "myself": 1
+      },
+      "i will continue": {
+        "now": 1
+      },
+      "i want soap": {
+        "please": 1
+      },
+      "this is too": {
+        "much": 1
+      },
+      "i want shampoo": {
+        "please": 1
+      },
+      "need a teacher": {
+        "please": 1
+      },
+      "i will choose": {
+        "another": 1
+      },
+      "will choose another": {
+        "one": 1
+      },
+      "want to tidy": {
+        "up": 1
+      },
+      "i cannot listen": {
+        "now": 1
+      },
+      "want to write": {
+        "something": 1
+      },
+      "i will calm": {
+        "down": 2
+      },
+      "will calm down": {
+        "now": 1
+      },
+      "can i watch": {
+        "television": 1
+      },
+      "i watch television": {
+        "today": 1
+      },
+      "i want another": {
+        "one": 1
+      },
+      "i feel happy": {
+        "here": 1,
+        "now": 1
+      },
+      "i cannot continue": {
+        "now": 1
+      },
+      "i cannot understand": {
+        "this": 1
+      },
+      "am lying in": {
+        "bed": 1
+      },
+      "want to talk": {
+        "now": 1
+      },
+      "i can choose": {
+        "another": 1,
+        "this": 1
+      },
+      "can choose another": {
+        "one": 1
+      },
+      "i like ice": {
+        "cream": 1
+      },
+      "i am at": {
+        "home": 1,
+        "school": 1
+      },
+      "i feel excited": {
+        "here": 1
+      },
+      "need a computer": {
+        "please": 1
+      },
+      "help me walk": {
+        "slowly": 1
+      },
+      "i will learn": {
+        "now": 1
+      },
+      "i cannot move": {
+        "now": 1
+      },
+      "want to jump": {
+        "high": 1
+      },
+      "i feel excellent": {
+        "today": 1
+      },
+      "help me close": {
+        "it": 1
+      },
+      "i feel not": {
+        "ready": 1
+      },
+      "am feeling ready": {
+        "today": 1
+      },
+      "take me to": {
+        "school": 1
+      },
+      "i cannot finish": {
+        "this": 1
+      },
+      "i will breathe": {
+        "slowly": 1
+      },
+      "am feeling strong": {
+        "today": 1
+      },
+      "am feeling scared": {
+        "today": 1
+      },
+      "need a table": {
+        "please": 1
+      },
+      "this is not": {
+        "good": 1
+      },
+      "i need support": {
+        "now": 1
+      },
+      "i cannot eat": {
+        "now": 1
+      },
+      "i am okay": {
+        "now": 1
+      },
+      "help me try": {
+        "again": 1
+      },
+      "please listen to": {
+        "me": 1
+      },
+      "i am walking": {
+        "slowly": 1
+      },
+      "i am eating": {
+        "now": 1
+      },
+      "help me sit": {
+        "down": 1
+      },
+      "i can calm": {
+        "down": 1
+      },
+      "will wait for": {
+        "you": 1
+      },
+      "can i close": {
+        "the": 1
+      },
+      "i close the": {
+        "door": 1
+      },
+      "i need paper": {
+        "please": 1
+      },
+      "want to clean": {
+        "this": 1
+      },
+      "i feel bad": {
+        "today": 1
+      },
+      "want to flush": {
+        "please": 1
+      },
+      "i am thinking": {
+        "now": 1
+      },
+      "i will write": {
+        "now": 1
+      },
+      "need to rest": {
+        "now": 1
+      },
+      "need to ask": {
+        "something": 1
+      },
+      "i am standing": {
+        "here": 1
+      },
+      "i cannot stay": {
+        "here": 1
+      },
+      "i feel thirsty": {
+        "today": 1,
+        "now": 1
+      },
+      "my whole body": {
+        "hurts": 1
+      },
+      "whole body hurts": {
+        "today": 1
+      },
+      "i feel sick": {
+        "today": 1
+      },
+      "i eat something": {
+        "sweet": 1
+      },
+      "i will start": {
+        "now": 1
+      },
+      "need to see": {
+        "clearly": 1
+      },
+      "i can breathe": {
+        "slowly": 1
+      },
+      "need to practice": {
+        "now": 1
+      },
+      "i cannot focus": {
+        "now": 1
+      },
+      "i will come": {
+        "now": 1
+      },
+      "i cannot decide": {
+        "now": 1
+      },
+      "want something else": {
+        "now": 1
+      },
+      "need a chair": {
+        "please": 1
+      },
+      "please call the": {
+        "doctor": 1
+      }
+    },
+    "4": {
+      "i need to start": {
+        "now": 1
+      },
+      "i want to finish": {
+        "slowly": 1,
+        "eating": 1,
+        "playing": 1,
+        "calibration": 1,
+        "now": 1
+      },
+      "i want to hear": {
+        "clearly": 1,
+        "slowly": 1,
+        "you": 1,
+        "again": 1
+      },
+      "i want to see": {
+        "slowly": 1,
+        "again": 1,
+        "accuracy": 1
+      },
+      "i want to focus": {
+        "carefully": 1,
+        "better": 1,
+        "more": 1,
+        "quietly": 1,
+        "now": 1
+      },
+      "i need to stand": {
+        "up": 1
+      },
+      "i want to wait": {
+        "outside": 2,
+        "quietly": 1,
+        "here": 3,
+        "there": 1
+      },
+      "my throat hurts a": {
+        "lot": 1
+      },
+      "i want to understand": {
+        "better": 1,
+        "everything": 1,
+        "slowly": 1
+      },
+      "can i drink cold": {
+        "water": 1
+      },
+      "i want to choose": {
+        "together": 1,
+        "carefully": 1,
+        "slowly": 1,
+        "now": 1,
+        "again": 1
+      },
+      "i want to drink": {
+        "slowly": 1,
+        "water": 1,
+        "milk": 1,
+        "coffee": 1,
+        "juice": 1,
+        "less": 1
+      },
+      "i want to decide": {
+        "now": 1,
+        "later": 1,
+        "together": 1,
+        "slowly": 1
+      },
+      "i want to think": {
+        "quietly": 3,
+        "alone": 1
+      },
+      "i want to stay": {
+        "longer": 1,
+        "safe": 1,
+        "calm": 1,
+        "alone": 1,
+        "quiet": 1,
+        "here": 1,
+        "focused": 1
+      },
+      "i want to answer": {
+        "now": 2,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "i am feeling tired": {
+        "today": 1
+      },
+      "i want to practice": {
+        "slowly": 1,
+        "again": 1,
+        "more": 1,
+        "now": 1,
+        "speaking": 1
+      },
+      "i am feeling better": {
+        "today": 1
+      },
+      "i want to go": {
+        "last": 1,
+        "outside": 1,
+        "back": 2,
+        "downstairs": 1,
+        "home": 1,
+        "alone": 1,
+        "together": 1,
+        "first": 1
+      },
+      "i would like a": {
+        "hug": 1,
+        "break": 1
+      },
+      "i need to breathe": {
+        "slowly": 2
+      },
+      "i want to check": {
+        "again": 1,
+        "slowly": 1,
+        "carefully": 1
+      },
+      "please help me sleep": {
+        "now": 1
+      },
+      "can i eat fruit": {
+        "now": 1
+      },
+      "please help me calm": {
+        "down": 1
+      },
+      "i want to begin": {
+        "carefully": 1,
+        "again": 1,
+        "slowly": 1,
+        "alone": 1,
+        "now": 1
+      },
+      "i want to repeat": {
+        "again": 1,
+        "slowly": 1,
+        "this": 1
+      },
+      "i want to eat": {
+        "vegetables": 1,
+        "bread": 1,
+        "pasta": 1,
+        "fruit": 1,
+        "lunch": 1,
+        "dessert": 1,
+        "yogurt": 1,
+        "salad": 1,
+        "dinner": 1,
+        "rice": 1,
+        "chocolate": 1,
+        "chicken": 1,
+        "cheese": 1
+      },
+      "i am feeling sad": {
+        "today": 1
+      },
+      "i am ready to": {
+        "talk": 1,
+        "focus": 1,
+        "listen": 1,
+        "go": 1,
+        "start": 1,
+        "eat": 1,
+        "learn": 1
+      },
+      "please help me understand": {
+        "this": 1
+      },
+      "i want to look": {
+        "there": 1,
+        "carefully": 1,
+        "slowly": 1,
+        "here": 1,
+        "closer": 1
+      },
+      "i need to stop": {
+        "now": 1
+      },
+      "i want to wear": {
+        "shoes": 1,
+        "pants": 1
+      },
+      "please help me start": {
+        "now": 1
+      },
+      "i want to sit": {
+        "closer": 1,
+        "quietly": 1,
+        "alone": 1,
+        "here": 1
+      },
+      "i need a tablet": {
+        "please": 1
+      },
+      "i want to try": {
+        "this": 1,
+        "together": 1,
+        "now": 1,
+        "harder": 1,
+        "later": 1,
+        "again": 1,
+        "carefully": 1
+      },
+      "i need my mom": {
+        "please": 1
+      },
+      "i want to continue": {
+        "now": 1,
+        "slowly": 1,
+        "later": 1
+      },
+      "please help me stand": {
+        "up": 2
+      },
+      "i need to walk": {
+        "slowly": 1
+      },
+      "i need a hug": {
+        "please": 1,
+        "now": 1
+      },
+      "i am feeling good": {
+        "today": 1
+      },
+      "i want to stop": {
+        "now": 3,
+        "playing": 2,
+        "this": 1,
+        "talking": 1,
+        "eating": 1
+      },
+      "i want to feel": {
+        "supported": 1,
+        "peaceful": 1,
+        "understood": 1,
+        "better": 1,
+        "confident": 1,
+        "loved": 1,
+        "relaxed": 1,
+        "stronger": 1
+      },
+      "i need more space": {
+        "now": 1
+      },
+      "i want to remember": {
+        "later": 1,
+        "this": 2,
+        "again": 1,
+        "slowly": 1
+      },
+      "i need a blanket": {
+        "please": 1
+      },
+      "i will wake up": {
+        "now": 1
+      },
+      "i want to play": {
+        "together": 1,
+        "alone": 1,
+        "inside": 1,
+        "outside": 1,
+        "quietly": 1,
+        "slowly": 1
+      },
+      "i would like to": {
+        "listen": 1,
+        "explain": 1,
+        "talk": 1,
+        "write": 1,
+        "practice": 1,
+        "remember": 1,
+        "learn": 1,
+        "eat": 1,
+        "wait": 1,
+        "play": 1,
+        "understand": 1
+      },
+      "i need to lie": {
+        "down": 2
+      },
+      "i want to unpack": {
+        "this": 1
+      },
+      "i need to sit": {
+        "down": 1
+      },
+      "i need to talk": {
+        "now": 1
+      },
+      "i need to go": {
+        "outside": 1,
+        "home": 1
+      },
+      "i need to eat": {
+        "now": 1,
+        "something": 1
+      },
+      "please sit next to": {
+        "me": 1
+      },
+      "i want to listen": {
+        "again": 1,
+        "carefully": 2,
+        "quietly": 1
+      },
+      "can i draw something": {
+        "nice": 1
+      },
+      "i am feeling calm": {
+        "today": 1
+      },
+      "i want to walk": {
+        "fast": 1,
+        "slowly": 1
+      },
+      "i want to move": {
+        "there": 1,
+        "here": 1,
+        "closer": 1,
+        "carefully": 1,
+        "away": 1
+      },
+      "i want to help": {
+        "now": 1,
+        "you": 1
+      },
+      "i do not like": {
+        "this": 1,
+        "that": 1
+      },
+      "i want to forget": {
+        "this": 1,
+        "slowly": 1
+      },
+      "i need to finish": {
+        "this": 1
+      },
+      "i want to be": {
+        "patient": 1,
+        "understood": 2,
+        "alone": 1,
+        "brave": 1,
+        "quiet": 1,
+        "heard": 1,
+        "calm": 1,
+        "louder": 1,
+        "kind": 1,
+        "happy": 1
+      },
+      "can i go to": {
+        "school": 1
+      },
+      "my ear hurts a": {
+        "lot": 1
+      },
+      "please turn off the": {
+        "television": 1,
+        "light": 1
+      },
+      "i need to take": {
+        "medicine": 1
+      },
+      "i am calming down": {
+        "now": 1
+      },
+      "can i have medicine": {
+        "please": 1
+      },
+      "i can ask a": {
+        "question": 1
+      },
+      "i need to feel": {
+        "supported": 1,
+        "calm": 1,
+        "understood": 1,
+        "safe": 1
+      },
+      "i need someone with": {
+        "me": 1
+      },
+      "please stop for a": {
+        "moment": 1
+      },
+      "i want to buy": {
+        "water": 1
+      },
+      "i am feeling weak": {
+        "today": 1
+      },
+      "i want to start": {
+        "again": 2,
+        "now": 1
+      },
+      "i will lie down": {
+        "now": 1
+      },
+      "i want to come": {
+        "inside": 1,
+        "back": 1,
+        "now": 1
+      },
+      "i need to sleep": {
+        "now": 1
+      },
+      "i need to calm": {
+        "down": 2
+      },
+      "i want to speak": {
+        "quietly": 1,
+        "clearly": 1
+      },
+      "i am feeling worse": {
+        "now": 1,
+        "today": 1
+      },
+      "my tooth hurts very": {
+        "much": 1
+      },
+      "i want to communicate": {
+        "better": 1,
+        "faster": 1
+      },
+      "i do not feel": {
+        "well": 1
+      },
+      "i need a phone": {
+        "please": 1
+      },
+      "please help me finish": {
+        "this": 1
+      },
+      "i want to respond": {
+        "now": 1,
+        "carefully": 1,
+        "slowly": 1
+      },
+      "my back hurts this": {
+        "morning": 1
+      },
+      "i want to learn": {
+        "today": 1,
+        "more": 1
+      },
+      "i want to stand": {
+        "here": 1,
+        "still": 1
+      },
+      "i would like some": {
+        "water": 1,
+        "quiet": 1,
+        "help": 1,
+        "space": 1,
+        "food": 1,
+        "time": 1
+      },
+      "i am feeling bad": {
+        "today": 1
+      },
+      "i want to import": {
+        "sentences": 1
+      },
+      "can i have help": {
+        "please": 1
+      },
+      "i do not want": {
+        "this": 1,
+        "that": 1
+      },
+      "i need to say": {
+        "something": 1
+      },
+      "i need to remember": {
+        "now": 1
+      },
+      "i am feeling angry": {
+        "today": 1
+      },
+      "i want to calm": {
+        "down": 1
+      },
+      "can i have water": {
+        "please": 1
+      },
+      "i cannot do it": {
+        "alone": 1
+      },
+      "can i open the": {
+        "door": 1,
+        "window": 1,
+        "box": 1
+      },
+      "i need a pen": {
+        "please": 1
+      },
+      "i want to say": {
+        "sorry": 1,
+        "goodbye": 1,
+        "something": 1,
+        "hello": 1
+      },
+      "please help me open": {
+        "it": 1
+      },
+      "please turn on the": {
+        "television": 1,
+        "light": 1
+      },
+      "i want to do": {
+        "homework": 1
+      },
+      "i want to ask": {
+        "again": 1,
+        "clearly": 1,
+        "now": 1
+      },
+      "i want the screen": {
+        "brighter": 1
+      },
+      "i want to fix": {
+        "this": 1
+      },
+      "i need to understand": {
+        "now": 1
+      },
+      "i want to slow": {
+        "down": 1
+      },
+      "i need a doctor": {
+        "please": 1
+      },
+      "please help me find": {
+        "it": 1
+      },
+      "i want to kiss": {
+        "you": 1
+      },
+      "i will go to": {
+        "school": 1
+      },
+      "i want to visit": {
+        "friends": 1
+      },
+      "i am not okay": {
+        "now": 1
+      },
+      "i need to explain": {
+        "now": 1
+      },
+      "i need a pillow": {
+        "please": 1
+      },
+      "i will try with": {
+        "help": 1
+      },
+      "can i drink orange": {
+        "juice": 1
+      },
+      "i can try again": {
+        "now": 1
+      },
+      "my stomach hurts very": {
+        "much": 1
+      },
+      "i want to rest": {
+        "now": 1
+      },
+      "i need to decide": {
+        "now": 1
+      },
+      "i want to sleep": {
+        "now": 1,
+        "longer": 1
+      },
+      "i am feeling nervous": {
+        "today": 1
+      },
+      "i can do it": {
+        "alone": 1
+      },
+      "i want to organize": {
+        "this": 1
+      },
+      "i want to watch": {
+        "tv": 1
+      },
+      "it hurts when i": {
+        "walk": 1,
+        "sit": 1
+      },
+      "i need to drink": {
+        "now": 1
+      },
+      "i need my dad": {
+        "please": 1
+      },
+      "i want to dance": {
+        "now": 1
+      },
+      "i am feeling okay": {
+        "today": 1
+      },
+      "i need to choose": {
+        "now": 1
+      },
+      "i want to explain": {
+        "again": 1,
+        "myself": 1
+      },
+      "i need a teacher": {
+        "please": 1
+      },
+      "i will choose another": {
+        "one": 1
+      },
+      "i want to tidy": {
+        "up": 1
+      },
+      "i want to write": {
+        "something": 1
+      },
+      "i will calm down": {
+        "now": 1
+      },
+      "can i watch television": {
+        "today": 1
+      },
+      "i am lying in": {
+        "bed": 1
+      },
+      "i want to talk": {
+        "now": 1
+      },
+      "i can choose another": {
+        "one": 1
+      },
+      "i need a computer": {
+        "please": 1
+      },
+      "please help me walk": {
+        "slowly": 1
+      },
+      "i want to jump": {
+        "high": 1
+      },
+      "please help me close": {
+        "it": 1
+      },
+      "i am feeling ready": {
+        "today": 1
+      },
+      "please take me to": {
+        "school": 1
+      },
+      "i am feeling strong": {
+        "today": 1
+      },
+      "i am feeling scared": {
+        "today": 1
+      },
+      "i need a table": {
+        "please": 1
+      },
+      "please help me try": {
+        "again": 1
+      },
+      "please help me sit": {
+        "down": 1
+      },
+      "i will wait for": {
+        "you": 1
+      },
+      "can i close the": {
+        "door": 1
+      },
+      "i want to clean": {
+        "this": 1
+      },
+      "i want to flush": {
+        "please": 1
+      },
+      "i need to rest": {
+        "now": 1
+      },
+      "i need to ask": {
+        "something": 1
+      },
+      "my whole body hurts": {
+        "today": 1
+      },
+      "can i eat something": {
+        "sweet": 1
+      },
+      "i need to see": {
+        "clearly": 1
+      },
+      "i need to practice": {
+        "now": 1
+      },
+      "i want something else": {
+        "now": 1
+      },
+      "i need a chair": {
+        "please": 1
+      }
+    }
+  }
+}

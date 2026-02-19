@@ -1,0 +1,2511 @@
+I want to go to school <eos>
+I want to go to the hospital <eos>
+I want to go home <eos>
+I want to go outside <eos>
+I want to go to the garden <eos>
+I want to go to the mall <eos>
+I want to go to a movie <eos>
+I want to go to a friend’s house <eos>
+I want to go to the kitchen <eos>
+I want to go to the room <eos>
+I want to go to the clinic <eos>
+I want to go to sleep <eos>
+I want to rest <eos>
+I want to play <eos>
+I want to eat <eos>
+I want to drink <eos>
+I want to go to the bathroom <eos>
+I want to eat an apple <eos>
+I want to eat a banana <eos>
+I want to eat bread <eos>
+I want to eat soup <eos>
+I want to eat rice <eos>
+I want to eat chicken <eos>
+I want to eat salad <eos>
+I want to eat pasta <eos>
+I want to eat cheese <eos>
+I want to eat an egg <eos>
+I want to eat yogurt <eos>
+I want to eat fruit <eos>
+I want to eat something <eos>
+I want to eat lunch <eos>
+I want to eat dinner <eos>
+I want to eat breakfast <eos>
+I want to eat dessert <eos>
+I want to eat chocolate <eos>
+I want to eat ice cream <eos>
+I want to drink water <eos>
+I want to drink juice <eos>
+I want to drink tea <eos>
+I want to drink chocolate milk <eos>
+I want to drink milk <eos>
+I want to drink coffee <eos>
+I want to drink something <eos>
+I want to drink now <eos>
+I want to play with a ball <eos>
+I want to play with blocks <eos>
+I want to play on the computer <eos>
+I want to play on the tablet <eos>
+I want to play outside <eos>
+I want to play with you <eos>
+I want to play alone <eos>
+I want to play a game <eos>
+I want to play with dolls <eos>
+I want to play in the garden <eos>
+I want to listen to music <eos>
+I want to listen to a story <eos>
+I want to say something <eos>
+I want to speak <eos>
+I want to tell a story <eos>
+I want to share <eos>
+I want to listen to a song <eos>
+I want to hear you <eos>
+I want to watch TV <eos>
+I want to watch a video <eos>
+I want to see a picture <eos>
+I want to see a doctor <eos>
+I want to see my mom <eos>
+I want to see my dad <eos>
+I want to see a friend <eos>
+I want to talk to my mom <eos>
+I want to talk to my dad <eos>
+I want to talk to the teacher <eos>
+I want to talk to the doctor <eos>
+I want to talk to a friend <eos>
+I want to talk on the phone <eos>
+I want to talk now <eos>
+I want to rest in bed <eos>
+I want to rest on the couch <eos>
+I want to rest in the room <eos>
+I want to rest now <eos>
+I want to read a book <eos>
+I want to read a newspaper <eos>
+I want to read a message <eos>
+I want to write something <eos>
+I want to write a message <eos>
+I want to draw a picture <eos>
+I want to draw at home <eos>
+I want to buy food <eos>
+I want to buy water <eos>
+I want to buy a gift <eos>
+I want to ask for help <eos>
+I want to apologize <eos>
+I want to ask for something <eos>
+I want to give you something <eos>
+I want to receive medicine <eos>
+I need water please <eos>
+I need food please <eos>
+I need help please <eos>
+I need to use the bathroom please <eos>
+I need medicine please <eos>
+I need a doctor please <eos>
+I need my mom please <eos>
+I need my dad please <eos>
+I need a teacher please <eos>
+I need a friend please <eos>
+I need a phone please <eos>
+I need a computer please <eos>
+I need a tablet please <eos>
+I need clothes please <eos>
+I need shoes please <eos>
+I need a blanket please <eos>
+I need a pillow please <eos>
+I need rest please <eos>
+I need a break please <eos>
+I need music please <eos>
+I need light please <eos>
+I need quiet please <eos>
+I need time please <eos>
+I need a pen please <eos>
+I need paper please <eos>
+I need my glasses please <eos>
+I need a chair please <eos>
+I need a table please <eos>
+I need space please <eos>
+I need a hug please <eos>
+I need attention <eos>
+I feel happy today <eos>
+I feel sad today <eos>
+I feel tired today <eos>
+I feel hungry today <eos>
+I feel thirsty today <eos>
+I feel sick today <eos>
+I feel weak today <eos>
+I feel strong today <eos>
+I feel good today <eos>
+I feel bad today <eos>
+I feel stressed today <eos>
+I feel calm today <eos>
+I feel lonely today <eos>
+I feel scared today <eos>
+I feel angry today <eos>
+I feel confused today <eos>
+I feel okay today <eos>
+I feel great today <eos>
+I feel excellent today <eos>
+I feel excited today <eos>
+I feel bored today <eos>
+I feel proud today <eos>
+I feel loved today <eos>
+I feel safe today <eos>
+I feel ready today <eos>
+I do not feel well <eos>
+It hurts <eos>
+Please help me open it <eos>
+Please help me close it <eos>
+Please help me find it <eos>
+Please help me stand up <eos>
+Please help me sit down <eos>
+Please help me walk <eos>
+Please help me eat <eos>
+Please help me drink <eos>
+Please help me get dressed <eos>
+Please help me bathe <eos>
+Please help me sleep <eos>
+Please help me rest <eos>
+Please help me read <eos>
+Please help me write <eos>
+Please help me draw <eos>
+Please help me play <eos>
+Please help me talk <eos>
+Please help me make a call <eos>
+Please help me clean <eos>
+Please help me tidy up <eos>
+Please help me now <eos>
+Please help me here <eos>
+Please help me there <eos>
+Please help me quickly <eos>
+Please help me again <eos>
+Can I have water please <eos>
+Can I have food please <eos>
+Can I have help please <eos>
+Can I have medicine please <eos>
+Can I have a hug please <eos>
+Can I have more time please <eos>
+Can I have some space please <eos>
+Can I have quiet please <eos>
+Can I have an explanation please <eos>
+Can I have an answer please <eos>
+Can I go to school <eos>
+Can I go to the garden today <eos>
+Can I go to the beach today <eos>
+Can I go to a movie today <eos>
+Can I go home now <eos>
+Can I go for a short walk <eos>
+Can I go play outside <eos>
+Can I eat something sweet <eos>
+Can I eat fruit now <eos>
+Can I eat dinner <eos>
+Can I drink orange juice <eos>
+Can I drink cold water <eos>
+Can I drink hot tea <eos>
+Can I play on the computer now <eos>
+Can I play on the tablet for a while <eos>
+Can I play ball with you <eos>
+Can I listen to music now <eos>
+Can I hear a story before sleep <eos>
+Can I watch television today <eos>
+Can I watch a short video <eos>
+Can I see my mom <eos>
+Can I talk to my dad <eos>
+Can I talk on the phone for a moment <eos>
+Can I rest in my room <eos>
+Can I rest on the couch for a while <eos>
+Can I read a book together <eos>
+Can I draw something nice <eos>
+Can I open the window <eos>
+Can I open the door <eos>
+Can I open the box <eos>
+Can I turn off the light <eos>
+Can I close the door <eos>
+Can I turn off the television <eos>
+Can I turn off the water <eos>
+My head hurts very much now <eos>
+My back hurts this morning <eos>
+My stomach hurts very much <eos>
+My throat hurts a lot <eos>
+My hand hurts here <eos>
+My leg hurts there <eos>
+My ear hurts a lot <eos>
+My tooth hurts very much <eos>
+My whole body hurts today <eos>
+It hurts when I walk <eos>
+It hurts when I sit <eos>
+It hurts when I talk to you <eos>
+I want to go to the shopping center <eos>
+I want to go to the playground <eos>
+I want to go on a long walk <eos>
+I want to visit friends <eos>
+I want to go to art class <eos>
+I want to go to music class <eos>
+I want to go to class now <eos>
+I want to go to speech therapy <eos>
+I want to go to my emotional therapist <eos>
+I want to go to the quiet corner <eos>
+I want to eat fresh bread <eos>
+I want to eat white cheese <eos>
+I want to eat green olives <eos>
+I want to eat sliced cucumber <eos>
+I want to eat a small tomato <eos>
+I want to eat yellow pepper <eos>
+I want to eat warm corn <eos>
+I want to eat green peas <eos>
+I want to eat chicken schnitzel <eos>
+I want to eat salty fries <eos>
+I want to eat red pasta <eos>
+I want to eat white rice <eos>
+I want to eat brown lentils <eos>
+I want to eat cheese pastry <eos>
+I want to eat a chocolate cookie <eos>
+I want to eat a sweet wafer <eos>
+I want to drink water with ice <eos>
+I want to drink flavored water <eos>
+I want to drink grape juice <eos>
+I want to drink apple juice <eos>
+I want to drink chocolate milk from a bag <eos>
+I want to drink soy milk <eos>
+I want to drink herbal tea <eos>
+I want to drink black coffee <eos>
+I want to drink a cold drink <eos>
+I want to drink a hot drink <eos>
+I want to drink slowly now <eos>
+I want to play with a red car <eos>
+I want to play with a blue airplane <eos>
+I want to play with a fast train <eos>
+I want to play with large blocks <eos>
+I want to play an animal puzzle <eos>
+I want to play a color lotto game <eos>
+I want to play a memory game with pictures <eos>
+I want to play on the field today <eos>
+I want to play with a new friend <eos>
+I want to play with the teacher here <eos>
+I want to listen to a familiar song <eos>
+I want to listen to music now <eos>
+I want to hear the sound of rain <eos>
+I want to hear animal sounds <eos>
+I want to hear a funny story <eos>
+I want to hear a scary story <eos>
+I want to hear what you said <eos>
+I want to see the children <eos>
+I want to see the playground <eos>
+I want to see birds outside <eos>
+I want to see a small cat <eos>
+I want to see a running dog <eos>
+I want to watch a nature movie <eos>
+I want to watch a cartoon show <eos>
+I want to watch a funny video <eos>
+I want to sit here <eos>
+I want to sit next to you <eos>
+I want to sit alone <eos>
+I want to stand up now <eos>
+I want to lie down <eos>
+I want to lie in bed <eos>
+I want to lie on the couch <eos>
+I want to sleep now <eos>
+I want to sleep in my room <eos>
+I want to wake up later <eos>
+I want to wake up early <eos>
+I want to take a shower <eos>
+I want to wash my hands <eos>
+I want to wash my face <eos>
+I want to brush my teeth <eos>
+I want to change my clothes <eos>
+I want to wear a shirt <eos>
+I want to wear pants <eos>
+I want to wear shoes <eos>
+I want to wear a jacket <eos>
+I want to take off my shoes <eos>
+I want to take off my jacket <eos>
+I want to clean my room <eos>
+I want to clean the table <eos>
+I want to clean the floor <eos>
+I want to tidy up <eos>
+I want to organize my toys <eos>
+I want to pack my bag <eos>
+I want to unpack my bag <eos>
+I want to open my bag <eos>
+I want to close my bag <eos>
+I want to go for a walk <eos>
+I want to walk slowly <eos>
+I want to walk fast <eos>
+I want to run outside <eos>
+I want to jump high <eos>
+I want to dance now <eos>
+I want to sing a song <eos>
+I want to clap my hands <eos>
+I want to laugh <eos>
+I want to smile <eos>
+I want to cry <eos>
+I want to calm down <eos>
+I want to relax <eos>
+I want to be alone <eos>
+I want to be with you <eos>
+I want to be with my family <eos>
+I want to be quiet <eos>
+I want to be loud <eos>
+I want to try again <eos>
+I want to stop now <eos>
+I want to continue <eos>
+I want to finish <eos>
+I want to start again <eos>
+I want to learn something new <eos>
+I want to study <eos>
+I want to do homework <eos>
+I want to answer <eos>
+I want to ask a question <eos>
+I want to understand <eos>
+I want to explain <eos>
+I want to show you something <eos>
+I want to help you <eos>
+I want to help my friend <eos>
+I want to wait <eos>
+I want to wait here <eos>
+I want to wait outside <eos>
+I want to come inside <eos>
+I want to go outside now <eos>
+I want to go upstairs <eos>
+I want to go downstairs <eos>
+I want to go back <eos>
+I want to come back <eos>
+I want to sit at the table <eos>
+I want to sit on the floor <eos>
+I want to sit on the chair <eos>
+I want to lie on the bed <eos>
+I want to look outside <eos>
+I want to look at you <eos>
+I want to look at the book <eos>
+I want to look at the picture <eos>
+I want to choose this <eos>
+I want to choose that <eos>
+I want something else <eos>
+I do not want this <eos>
+I do not want that <eos>
+I do not like this <eos>
+I do not like that <eos>
+I like this <eos>
+I like that <eos>
+I like you <eos>
+I like my teacher <eos>
+I like my friend <eos>
+I like music <eos>
+I like chocolate <eos>
+I like ice cream <eos>
+I like to play <eos>
+I like to draw <eos>
+I like to read <eos>
+I like to watch television <eos>
+I am hungry <eos>
+I am thirsty <eos>
+I am tired <eos>
+I am sick <eos>
+I am happy <eos>
+I am sad <eos>
+I am angry <eos>
+I am scared <eos>
+I am excited <eos>
+I am bored <eos>
+I am ready <eos>
+I am not ready <eos>
+I am here <eos>
+I am there <eos>
+I am okay <eos>
+I am not okay <eos>
+I am feeling better <eos>
+I am feeling worse <eos>
+I am feeling good today <eos>
+I am feeling bad today <eos>
+I am feeling calm <eos>
+I am feeling nervous <eos>
+I am feeling confused <eos>
+I am feeling proud <eos>
+I am feeling lonely <eos>
+I am feeling safe <eos>
+I am feeling unsafe <eos>
+I am feeling strong <eos>
+I am feeling weak <eos>
+I am feeling better now <eos>
+I am feeling worse now <eos>
+I need to rest <eos>
+I need to sleep <eos>
+I need to sit down <eos>
+I need to stand up <eos>
+I need to lie down <eos>
+I need to calm down <eos>
+I need to relax <eos>
+I need to eat now <eos>
+I need to drink now <eos>
+I need to go outside <eos>
+I need to go home <eos>
+I need to go to school <eos>
+I need to go to the bathroom <eos>
+I need to wash my hands <eos>
+I need to brush my teeth <eos>
+I need to change my clothes <eos>
+I need to take medicine <eos>
+I need to see a doctor <eos>
+I need to talk to you <eos>
+I need to ask something <eos>
+I need to say something <eos>
+I need to tell you something <eos>
+I need to show you something <eos>
+I need to finish this <eos>
+I need to start now <eos>
+I need more time <eos>
+I need a break now <eos>
+I need help right now <eos>
+I need someone with me <eos>
+I need quiet time <eos>
+I need space <eos>
+I need attention now <eos>
+Please wait <eos>
+Please wait for me <eos>
+Please come here <eos>
+Please sit down <eos>
+Please stand up <eos>
+Please stop <eos>
+Please continue <eos>
+Please listen to me <eos>
+Please look at me <eos>
+Please help me now <eos>
+Please give me water <eos>
+Please give me food <eos>
+Please give me time <eos>
+Please give me space <eos>
+Please give me a hug <eos>
+Please take me home <eos>
+Please take me outside <eos>
+Please take me to school <eos>
+Please take me to the doctor <eos>
+Please open the door <eos>
+Please close the door <eos>
+Please turn on the light <eos>
+Please turn off the light <eos>
+Please turn on the television <eos>
+Please turn off the television <eos>
+Please call my mom <eos>
+Please call my dad <eos>
+Please call the teacher <eos>
+Please call the doctor <eos>
+Please stay with me <eos>
+Please sit next to me <eos>
+Please talk to me <eos>
+Please explain again <eos>
+Please try again <eos>
+Please slow down <eos>
+Please speak slowly <eos>
+Please speak louder <eos>
+Please be quiet <eos>
+Please be patient <eos>
+Please understand me <eos>
+Please help me understand <eos>
+I can do it <eos>
+I cannot do it <eos>
+I can try <eos>
+I cannot try now <eos>
+I can wait <eos>
+I cannot wait <eos>
+I can help <eos>
+I cannot help now <eos>
+I can go <eos>
+I cannot go <eos>
+I can stay <eos>
+I cannot stay <eos>
+I can eat <eos>
+I cannot eat <eos>
+I can drink <eos>
+I cannot drink <eos>
+I can sleep <eos>
+I cannot sleep <eos>
+I can talk <eos>
+I cannot talk <eos>
+I can play <eos>
+I cannot play now <eos>
+I can read <eos>
+I cannot read <eos>
+I can write <eos>
+I cannot write <eos>
+I can draw <eos>
+I cannot draw <eos>
+I can listen <eos>
+I cannot listen now <eos>
+I can understand <eos>
+I cannot understand <eos>
+I can see <eos>
+I cannot see <eos>
+I can hear <eos>
+I cannot hear <eos>
+I can feel it <eos>
+I cannot feel it <eos>
+I can remember <eos>
+I cannot remember <eos>
+I can try again <eos>
+I cannot try again <eos>
+I am ready to start <eos>
+I am not ready to start <eos>
+I am ready to go <eos>
+I am not ready to go <eos>
+I am ready to eat <eos>
+I am not ready to eat <eos>
+I am ready to sleep <eos>
+I am not ready to sleep <eos>
+I am ready to talk <eos>
+I am not ready to talk <eos>
+I am ready to play <eos>
+I am not ready to play <eos>
+I am ready to learn <eos>
+I am not ready to learn <eos>
+I feel cold <eos>
+I feel hot <eos>
+I feel tired now <eos>
+I feel hungry now <eos>
+I feel thirsty now <eos>
+I feel better now <eos>
+I feel worse now <eos>
+I feel okay now <eos>
+I feel safe here <eos>
+I feel scared here <eos>
+I feel happy here <eos>
+I feel sad here <eos>
+I feel angry here <eos>
+I feel calm here <eos>
+I feel nervous here <eos>
+I feel excited here <eos>
+I feel bored here <eos>
+I feel confused here <eos>
+I feel proud here <eos>
+I feel lonely here <eos>
+I want more <eos>
+I want less <eos>
+I want another one <eos>
+I want something different <eos>
+I want something new <eos>
+I want something else now <eos>
+I want to try this <eos>
+I want to try that <eos>
+I want to try again now <eos>
+I want to stop now <eos>
+I want to stop this <eos>
+I want to finish this now <eos>
+I want to begin now <eos>
+I want to begin again <eos>
+I want to continue now <eos>
+I want to change this <eos>
+I want to change that <eos>
+I want to change my clothes now <eos>
+I want to change my seat <eos>
+I want to move <eos>
+I want to move here <eos>
+I want to move there <eos>
+I want to move closer <eos>
+I want to move away <eos>
+I want to sit closer <eos>
+I want to sit farther away <eos>
+I want to stand here <eos>
+I want to stand there <eos>
+I want to wait here <eos>
+I want to wait there <eos>
+I want to look here <eos>
+I want to look there <eos>
+I want to hold your hand <eos>
+I want to hug you <eos>
+I want to kiss you <eos>
+I want to say thank you <eos>
+I want to say sorry <eos>
+I want to say hello <eos>
+I want to say goodbye <eos>
+I want to answer now <eos>
+I want to ask now <eos>
+I want to think <eos>
+I want to think alone <eos>
+I want to think quietly <eos>
+I want to remember <eos>
+I want to forget this <eos>
+I want to understand better <eos>
+I want to understand now <eos>
+I want to learn more <eos>
+I want to learn today <eos>
+I want to practice <eos>
+I want to practice again <eos>
+I want to help <eos>
+I want to help now <eos>
+I want to help you now <eos>
+I want to be helpful <eos>
+I want to be kind <eos>
+I want to be strong <eos>
+I want to be brave <eos>
+I want to be calm <eos>
+I want to be quiet now <eos>
+I want to be louder <eos>
+I want to be happy <eos>
+I want to feel better <eos>
+I want to feel safe <eos>
+I want to feel calm now <eos>
+I want to feel relaxed <eos>
+I want to feel understood <eos>
+I want to feel happy <eos>
+I want to feel safe here <eos>
+I want to feel better now <eos>
+I want to feel strong today <eos>
+I want to feel calm today <eos>
+I want to feel proud of myself <eos>
+I want to feel loved <eos>
+I want to feel understood by you <eos>
+I want to feel relaxed now <eos>
+I want to feel less stressed <eos>
+I want to feel comfortable <eos>
+I want to feel warm <eos>
+I want to feel cool <eos>
+I want to feel less pain <eos>
+I want to feel no pain <eos>
+I want to feel quiet inside <eos>
+I want to feel ready <eos>
+I want to feel confident <eos>
+I want to feel included <eos>
+I want to feel supported <eos>
+I need someone to listen to me <eos>
+I need someone to help me <eos>
+I need someone to sit with me <eos>
+I need someone to talk to me <eos>
+I need someone to stay with me <eos>
+I need someone to explain this <eos>
+I need someone to show me <eos>
+I need someone to guide me <eos>
+I need someone to calm me down <eos>
+I need someone to comfort me <eos>
+I need someone to understand me <eos>
+I need someone to answer me <eos>
+I need someone to wait for me <eos>
+I need someone to walk with me <eos>
+I need someone to read to me <eos>
+I need someone to play with me <eos>
+I need someone to help me eat <eos>
+I need someone to help me drink <eos>
+I need someone to help me rest <eos>
+I need someone to help me move <eos>
+I want to go to the park <eos>
+I want to go to the store <eos>
+I want to go to the supermarket <eos>
+I want to go to the playground now <eos>
+I want to go to the library <eos>
+I want to go to the classroom <eos>
+I want to go to therapy <eos>
+I want to go to music therapy <eos>
+I want to go to art therapy <eos>
+I want to go to physical therapy <eos>
+I want to go to the dentist <eos>
+I want to go to the pharmacy <eos>
+I want to go to the kitchen now <eos>
+I want to go to my room now <eos>
+I want to go to the living room <eos>
+I want to go to the yard <eos>
+I want to go to the balcony <eos>
+I want to go to the car <eos>
+I want to go for a drive <eos>
+I want to go home now <eos>
+I want to eat something healthy <eos>
+I want to eat something sweet now <eos>
+I want to eat something salty <eos>
+I want to eat something warm <eos>
+I want to eat something cold <eos>
+I want to eat a sandwich <eos>
+I want to eat a cookie <eos>
+I want to eat a piece of cake <eos>
+I want to eat vegetables <eos>
+I want to eat fruit now <eos>
+I want to drink cold water <eos>
+I want to drink warm milk <eos>
+I want to drink fresh juice <eos>
+I want to drink something sweet <eos>
+I want to drink something warm <eos>
+I want to drink something cold <eos>
+I want to drink slowly <eos>
+I want to drink more water <eos>
+I want to drink less <eos>
+I want to drink again <eos>
+I want to play a board game <eos>
+I want to play with my toys <eos>
+I want to play with my friend <eos>
+I want to play outside now <eos>
+I want to play inside <eos>
+I want to play together <eos>
+I want to play by myself <eos>
+I want to play something new <eos>
+I want to play again <eos>
+I want to stop playing <eos>
+I want to watch a movie <eos>
+I want to watch a cartoon <eos>
+I want to watch something funny <eos>
+I want to watch something interesting <eos>
+I want to watch something new <eos>
+I want to stop watching <eos>
+I want to listen carefully <eos>
+I want to listen again <eos>
+I want to listen quietly <eos>
+I want to listen to you now <eos>
+I want to hear clearly <eos>
+I want to hear again <eos>
+I want to hear the answer <eos>
+I want to see clearly <eos>
+I want to see again <eos>
+I want to see what happened <eos>
+I want to see who is here <eos>
+I want to see what you are doing <eos>
+I want to understand what happened <eos>
+I want to understand what you said <eos>
+I want to understand better now <eos>
+I want to explain myself <eos>
+I want to explain again <eos>
+I want to answer your question <eos>
+I want to ask another question <eos>
+I want to try something new <eos>
+I want to try again now <eos>
+I want to try by myself <eos>
+I want to try with help <eos>
+I want to try slowly <eos>
+I want to try later <eos>
+I want to try now <eos>
+I want to finish my work <eos>
+I want to finish eating <eos>
+I want to finish playing <eos>
+I want to finish now <eos>
+I want to stop now <eos>
+I want to stop this activity <eos>
+I want to stop talking <eos>
+I want to stop eating <eos>
+I want to stop playing <eos>
+I want to stop watching <eos>
+I want to start again <eos>
+I want to start now <eos>
+I want to begin slowly <eos>
+I want to begin with help <eos>
+I want to begin alone <eos>
+I want to wait a moment <eos>
+I want to wait here <eos>
+I want to wait outside <eos>
+I want to wait with you <eos>
+I want to wait quietly <eos>
+I want to go first <eos>
+I want to go next <eos>
+I want to go last <eos>
+I want to go together <eos>
+I want to go alone <eos>
+I want to come with you <eos>
+I want to come inside <eos>
+I want to come back <eos>
+I want to come now <eos>
+I want to move slowly <eos>
+I want to move carefully <eos>
+I want to move closer to you <eos>
+I want to move away now <eos>
+I want to move to another place <eos>
+I want to sit quietly <eos>
+I want to sit near you <eos>
+I want to sit by myself <eos>
+I want to stand still <eos>
+I want to stand next to you <eos>
+I want to lie down now <eos>
+I want to lie down quietly <eos>
+I want to sleep now <eos>
+I want to sleep longer <eos>
+I want to wake up now <eos>
+I want to wake up later <eos>
+I want to take a break <eos>
+I want to take a deep breath <eos>
+I want to take medicine now <eos>
+I want to take a shower now <eos>
+I want to wash my face now <eos>
+I want to wash my hands now <eos>
+I want to brush my teeth now <eos>
+I want to change my clothes now <eos>
+I want to wear clean clothes <eos>
+I want to wear something warm <eos>
+I want to wear something light <eos>
+I want to remove my shoes <eos>
+I want to open the window now <eos>
+I want to close the window now <eos>
+I want to open the door now <eos>
+I want to close the door now <eos>
+I want to turn on the light now <eos>
+I want to turn off the light now <eos>
+I want to turn on the television now <eos>
+I want to turn off the television now <eos>
+I want to turn on the music <eos>
+I want to turn off the music <eos>
+I want to call my mom now <eos>
+I want to call my dad now <eos>
+I want to call my friend now <eos>
+I want to send a message <eos>
+I want to read a message now <eos>
+I want to write a message now <eos>
+I want to draw something new <eos>
+I want to color a picture <eos>
+I want to build something <eos>
+I want to fix this <eos>
+I want to clean this <eos>
+I want to organize this <eos>
+I want to pack this <eos>
+I want to unpack this <eos>
+I want to choose another one <eos>
+I want to choose again <eos>
+I want to decide later <eos>
+I want to decide now <eos>
+I want to think about it <eos>
+I want to think quietly <eos>
+I want to remember this <eos>
+I want to remember later <eos>
+I want to forget this <eos>
+I want to forget about it <eos>
+I want to be alone now <eos>
+I want to be with my family now <eos>
+I want to be with my friend now <eos>
+I want to be near you <eos>
+I want to be farther away <eos>
+I want to be quiet now <eos>
+I want to be louder now <eos>
+I want to be patient <eos>
+I want to be understood <eos>
+I want to be heard <eos>
+I want to be included <eos>
+I want to be helpful <eos>
+I want to be brave now <eos>
+I want to be calm now <eos>
+I want to be happy now <eos>
+I want to feel less afraid <eos>
+I want to feel less angry <eos>
+I want to feel less sad <eos>
+I want to feel less tired <eos>
+I want to feel less confused <eos>
+I want to feel more confident <eos>
+I want to feel more relaxed <eos>
+I want to feel more comfortable <eos>
+I want to feel more focused <eos>
+I want to feel ready now <eos>
+I want to feel focused <eos>
+I want to feel calm inside <eos>
+I want to feel less pain now <eos>
+I want to feel stronger <eos>
+I want to feel better today <eos>
+I want to feel good now <eos>
+I want to feel peaceful <eos>
+I want to feel safe with you <eos>
+I want to feel supported now <eos>
+I want to feel relaxed today <eos>
+I need more support <eos>
+I need less noise <eos>
+I need more quiet <eos>
+I need more time now <eos>
+I need less light <eos>
+I need more light <eos>
+I need more space now <eos>
+I need less pressure <eos>
+I need more help <eos>
+I need less help <eos>
+I need to calm down now <eos>
+I need to rest for a while <eos>
+I need to stop for a moment <eos>
+I need to move slowly <eos>
+I need to breathe slowly <eos>
+I need to drink some water <eos>
+I need to eat something <eos>
+I need to talk to someone <eos>
+I need to be alone for a while <eos>
+I need to be with someone <eos>
+I need to go outside now <eos>
+I need to go inside now <eos>
+I need to sit quietly <eos>
+I need to lie down now <eos>
+I need to stand up now <eos>
+I need to walk slowly <eos>
+I need to walk with help <eos>
+I need to sleep now <eos>
+I need to wake up now <eos>
+I need to change position <eos>
+Please help me calm down <eos>
+Please help me breathe slowly <eos>
+Please help me sit down <eos>
+Please help me stand up <eos>
+Please help me move <eos>
+Please help me walk slowly <eos>
+Please help me lie down <eos>
+Please help me sleep now <eos>
+Please help me feel better <eos>
+Please help me understand this <eos>
+Please help me choose <eos>
+Please help me decide <eos>
+Please help me try again <eos>
+Please help me finish this <eos>
+Please help me start now <eos>
+Please help me stop now <eos>
+Please help me wait <eos>
+Please help me listen <eos>
+Please help me focus <eos>
+Please help me relax <eos>
+I feel nervous now <eos>
+I feel anxious now <eos>
+I feel upset now <eos>
+I feel uncomfortable <eos>
+I feel overwhelmed <eos>
+I feel stressed now <eos>
+I feel frustrated <eos>
+I feel tired now <eos>
+I feel sleepy now <eos>
+I feel weak now <eos>
+I feel strong now <eos>
+I feel calm now <eos>
+I feel better now <eos>
+I feel worse now <eos>
+I feel happy now <eos>
+I feel sad now <eos>
+I feel angry now <eos>
+I feel scared now <eos>
+I feel ready now <eos>
+I feel not ready <eos>
+I can try again now <eos>
+I can wait here <eos>
+I can sit quietly <eos>
+I can stand still <eos>
+I can breathe slowly <eos>
+I can calm down <eos>
+I can finish this <eos>
+I can start now <eos>
+I can stop now <eos>
+I can listen carefully <eos>
+I can focus now <eos>
+I can understand now <eos>
+I can explain this <eos>
+I can answer now <eos>
+I can ask a question <eos>
+I can choose this <eos>
+I can choose another one <eos>
+I can do this <eos>
+I can do it alone <eos>
+I can do it with help <eos>
+I cannot do this now <eos>
+I cannot understand this <eos>
+I cannot focus now <eos>
+I cannot wait longer <eos>
+I cannot calm down <eos>
+I cannot sit still <eos>
+I cannot stand up <eos>
+I cannot move now <eos>
+I cannot sleep now <eos>
+I cannot eat now <eos>
+I cannot drink now <eos>
+I cannot talk now <eos>
+I cannot listen now <eos>
+I cannot decide now <eos>
+I cannot choose now <eos>
+I cannot remember now <eos>
+I cannot explain this <eos>
+I cannot answer now <eos>
+I cannot continue now <eos>
+I cannot finish this <eos>
+I cannot start now <eos>
+I cannot try again <eos>
+I cannot stay here <eos>
+I cannot go now <eos>
+I cannot help now <eos>
+I cannot be alone <eos>
+I cannot be quiet <eos>
+I cannot relax now <eos>
+I cannot feel calm <eos>
+I cannot feel safe <eos>
+I cannot feel better <eos>
+I cannot feel strong <eos>
+I cannot feel ready <eos>
+I cannot do it alone <eos>
+I cannot do it without help <eos>
+I am trying <eos>
+I am trying again <eos>
+I am trying slowly <eos>
+I am trying my best <eos>
+I am waiting <eos>
+I am waiting here <eos>
+I am waiting outside <eos>
+I am listening <eos>
+I am listening carefully <eos>
+I am focusing <eos>
+I am focusing now <eos>
+I am calming down <eos>
+I am calming down now <eos>
+I am relaxing <eos>
+I am resting <eos>
+I am resting now <eos>
+I am sitting <eos>
+I am sitting here <eos>
+I am standing <eos>
+I am standing here <eos>
+I am lying down <eos>
+I am lying in bed <eos>
+I am sleeping <eos>
+I am waking up <eos>
+I am eating <eos>
+I am eating now <eos>
+I am drinking <eos>
+I am drinking now <eos>
+I am playing <eos>
+I am playing now <eos>
+I am watching <eos>
+I am watching now <eos>
+I am reading <eos>
+I am reading now <eos>
+I am writing <eos>
+I am writing now <eos>
+I am drawing <eos>
+I am drawing now <eos>
+I am walking <eos>
+I am walking slowly <eos>
+I am moving <eos>
+I am moving now <eos>
+I am thinking <eos>
+I am thinking now <eos>
+I am learning <eos>
+I am learning now <eos>
+I am helping <eos>
+I am helping now <eos>
+I am ready now <eos>
+I am not ready now <eos>
+I am okay now <eos>
+I am not okay now <eos>
+I am here now <eos>
+I am there now <eos>
+I am alone <eos>
+I am with you <eos>
+I am with my family <eos>
+I am with my friend <eos>
+I am at home <eos>
+I am at school <eos>
+I am in my room <eos>
+I am in the kitchen <eos>
+I am in the living room <eos>
+I am outside now <eos>
+I am inside now <eos>
+It is too loud <eos>
+It is too quiet <eos>
+It is too bright <eos>
+It is too dark <eos>
+It is too hot <eos>
+It is too cold <eos>
+It is too much <eos>
+It is not enough <eos>
+It is okay <eos>
+It is not okay <eos>
+That is good <eos>
+That is not good <eos>
+That is too hard <eos>
+That is too easy <eos>
+That is too fast <eos>
+That is too slow <eos>
+This is good <eos>
+This is not good <eos>
+This is better <eos>
+This is worse <eos>
+This is enough <eos>
+This is too much <eos>
+I understand now <eos>
+I do not understand <eos>
+I understand a little <eos>
+I understand better now <eos>
+I remember now <eos>
+I do not remember <eos>
+I forgot <eos>
+I will try <eos>
+I will try again <eos>
+I will wait <eos>
+I will stop now <eos>
+I will start now <eos>
+I will finish this <eos>
+I will help <eos>
+I will listen <eos>
+I will focus <eos>
+I will calm down <eos>
+I will sit here <eos>
+I will stand here <eos>
+I will lie down <eos>
+I will sleep now <eos>
+I will wake up now <eos>
+I will eat now <eos>
+I will drink now <eos>
+I will play now <eos>
+I will read now <eos>
+I will write now <eos>
+I will draw now <eos>
+I will walk now <eos>
+I will move now <eos>
+I will think now <eos>
+I will learn now <eos>
+I will go now <eos>
+I will come now <eos>
+I will stay here <eos>
+I will go home <eos>
+I will go outside <eos>
+I will go to school <eos>
+I will go to my room <eos>
+I will go to the kitchen <eos>
+I will go to the bathroom <eos>
+I will sit down <eos>
+I will stand up <eos>
+I will lie down now <eos>
+I will rest now <eos>
+I will try slowly <eos>
+I will try with help <eos>
+I will try alone <eos>
+I will be calm <eos>
+I will be quiet <eos>
+I will be patient <eos>
+I will be brave <eos>
+I will be strong <eos>
+I will be ready <eos>
+I will be kind <eos>
+I will feel better <eos>
+I will feel calm <eos>
+I will feel safe <eos>
+I will feel ready <eos>
+I will wait here <eos>
+I will wait for you <eos>
+I will wait quietly <eos>
+I will stop this <eos>
+I will continue now <eos>
+I will start again <eos>
+I will choose this <eos>
+I will choose another one <eos>
+I will answer now <eos>
+I will ask now <eos>
+I will explain now <eos>
+I will listen carefully <eos>
+I will focus now <eos>
+I will calm down now <eos>
+I will breathe slowly <eos>
+I am ready to eat now <eos>
+I am ready to drink now <eos>
+I am ready to go home <eos>
+I am ready to go outside <eos>
+I am ready to sleep now <eos>
+I am ready to play now <eos>
+I am ready to learn now <eos>
+I am ready to listen <eos>
+I am ready to focus <eos>
+I am ready to try again <eos>
+I am not ready to eat <eos>
+I am not ready to drink <eos>
+I am not ready to go <eos>
+I am not ready to sleep <eos>
+I am not ready to play <eos>
+I am not ready to learn <eos>
+I am not ready to listen <eos>
+I am not ready to focus <eos>
+I am not ready to try <eos>
+I am not ready yet <eos>
+I am feeling better today <eos>
+I am feeling worse today <eos>
+I am feeling calm today <eos>
+I am feeling nervous today <eos>
+I am feeling happy today <eos>
+I am feeling sad today <eos>
+I am feeling angry today <eos>
+I am feeling scared today <eos>
+I am feeling tired today <eos>
+I am feeling strong today <eos>
+I am feeling weak today <eos>
+I am feeling ready today <eos>
+I am feeling not ready today <eos>
+I am feeling okay today <eos>
+I am feeling not okay today <eos>
+I need help now <eos>
+I need support now <eos>
+I need quiet now <eos>
+I need space now <eos>
+I need time now <eos>
+I need attention now <eos>
+I need rest now <eos>
+I need sleep now <eos>
+I need water now <eos>
+I need food now <eos>
+I need medicine now <eos>
+I need a hug now <eos>
+I need someone now <eos>
+I need to stop now <eos>
+I need to start now <eos>
+I need to try again <eos>
+I need to wait <eos>
+I need to listen <eos>
+I need to focus <eos>
+I need to calm down <eos>
+I need to breathe slowly <eos>
+I need to move now <eos>
+I need to sit down <eos>
+I need to stand up <eos>
+I need to lie down <eos>
+I need to go home now <eos>
+I need to go outside now <eos>
+I need to go to school now <eos>
+I need to go to the bathroom now <eos>
+I need to talk now <eos>
+I need to say something now <eos>
+I need to explain now <eos>
+I need to understand now <eos>
+I need to decide now <eos>
+I need to choose now <eos>
+I need to remember now <eos>
+I need to forget this <eos>
+I need to practice now <eos>
+I need to repeat this <eos>
+I need to see clearly <eos>
+I need to hear clearly <eos>
+I need to feel safe <eos>
+I need to feel calm <eos>
+I need to feel better <eos>
+I need to feel ready <eos>
+I need to feel understood <eos>
+I need to feel supported <eos>
+I need to feel comfortable <eos>
+I need to feel less pain <eos>
+I need to feel less stress <eos>
+I need to feel less afraid <eos>
+I need to feel less angry <eos>
+I need to feel less sad <eos>
+I need to feel stronger <eos>
+I need to feel more relaxed <eos>
+I would like to eat <eos>
+I would like to drink <eos>
+I would like to rest <eos>
+I would like to sleep <eos>
+I would like to play <eos>
+I would like to read <eos>
+I would like to write <eos>
+I would like to draw <eos>
+I would like to go home <eos>
+I would like to go outside <eos>
+I would like to go to school <eos>
+I would like to sit down <eos>
+I would like to stand up <eos>
+I would like to lie down <eos>
+I would like to talk <eos>
+I would like to listen <eos>
+I would like to try again <eos>
+I would like to stop now <eos>
+I would like to start now <eos>
+I would like to wait <eos>
+I would like some water <eos>
+I would like some food <eos>
+I would like some help <eos>
+I would like some quiet <eos>
+I would like some space <eos>
+I would like some time <eos>
+I would like a hug <eos>
+I would like a break <eos>
+I would like to feel better <eos>
+I would like to feel calm <eos>
+I would like to feel safe <eos>
+I would like to feel happy <eos>
+I would like to feel relaxed <eos>
+I would like to feel ready <eos>
+I would like to understand <eos>
+I would like to explain <eos>
+I would like to ask something <eos>
+I would like to answer now <eos>
+I would like to choose this <eos>
+I would like to choose another one <eos>
+I would like to remember <eos>
+I would like to practice <eos>
+I would like to learn <eos>
+I would like to learn more <eos>
+I would like to move <eos>
+I would like to move slowly <eos>
+I would like to move closer <eos>
+I would like to move away <eos>
+I would like to stay here <eos>
+I would like to come with you <eos>
+I would like to go with you <eos>
+I would like to sit near you <eos>
+I would like to be alone <eos>
+I would like to be with you <eos>
+I would like to be quiet <eos>
+I would like to be calm <eos>
+I would like to be ready <eos>
+I would like to be strong <eos>
+I would like to be brave <eos>
+I want to ask for help <eos>
+I want to ask for water <eos>
+I want to ask for food <eos>
+I want to ask for more time <eos>
+I want to ask for space <eos>
+I want to ask for quiet <eos>
+I want to ask for attention <eos>
+I want to ask for support <eos>
+I want to ask for a hug <eos>
+I want to ask for a break <eos>
+I want to answer the question <eos>
+I want to answer now <eos>
+I want to respond now <eos>
+I want to explain what happened <eos>
+I want to explain how I feel <eos>
+I want to explain again <eos>
+I want to understand this better <eos>
+I want to understand what you mean <eos>
+I want to understand now <eos>
+I want to remember this <eos>
+I want to remember later <eos>
+I want to practice again <eos>
+I want to practice now <eos>
+I want to repeat this <eos>
+I want to repeat again <eos>
+I want to try one more time <eos>
+I want to try something different <eos>
+I want to try slowly <eos>
+I want to try with help <eos>
+I want to try alone <eos>
+I want to focus now <eos>
+I want to focus better <eos>
+I want to listen carefully <eos>
+I want to listen again <eos>
+I want to hear clearly <eos>
+I want to see clearly <eos>
+I want to look again <eos>
+I want to check again <eos>
+I want to decide later <eos>
+I want to decide now <eos>
+I want to choose later <eos>
+I want to choose now <eos>
+I want to decide carefully <eos>
+I want to decide together <eos>
+I want to decide by myself <eos>
+I want to decide with help <eos>
+I want to decide slowly <eos>
+I want to decide after thinking <eos>
+I want to decide before starting <eos>
+I want to decide later today <eos>
+I want to choose carefully <eos>
+I want to choose slowly <eos>
+I want to choose together <eos>
+I want to choose by myself <eos>
+I want to choose with help <eos>
+I want to choose something new <eos>
+I want to choose something different <eos>
+I want to choose the first one <eos>
+I want to choose the second one <eos>
+I want to choose the last one <eos>
+I want to choose the bigger one <eos>
+I want to choose the smaller one <eos>
+I want to check again <eos>
+I want to check carefully <eos>
+I want to check slowly <eos>
+I want to check with help <eos>
+I want to look again <eos>
+I want to look carefully <eos>
+I want to look slowly <eos>
+I want to look closer <eos>
+I want to look farther away <eos>
+I want to think more <eos>
+I want to think about this <eos>
+I want to think before answering <eos>
+I want to think quietly <eos>
+I want to think with help <eos>
+I want to focus more <eos>
+I want to focus better <eos>
+I want to focus carefully <eos>
+I want to focus quietly <eos>
+I want to focus with support <eos>
+I want to practice more <eos>
+I want to practice carefully <eos>
+I want to practice slowly <eos>
+I want to practice with help <eos>
+I want to practice by myself <eos>
+I want to repeat again <eos>
+I want to repeat slowly <eos>
+I want to repeat with help <eos>
+I want to repeat by myself <eos>
+I want to try harder <eos>
+I want to try carefully <eos>
+I want to try slowly <eos>
+I want to try together <eos>
+I want to try with support <eos>
+I want to try by myself <eos>
+I want to learn more today <eos>
+I want to learn something new today <eos>
+I want to learn slowly <eos>
+I want to learn carefully <eos>
+I want to learn with help <eos>
+I want to learn by myself <eos>
+I want to understand better <eos>
+I want to understand clearly <eos>
+I want to understand slowly <eos>
+I want to understand with help <eos>
+I want to understand by myself <eos>
+I want to explain clearly <eos>
+I want to explain slowly <eos>
+I want to explain again slowly <eos>
+I want to explain with help <eos>
+I want to explain by myself <eos>
+I want to answer carefully <eos>
+I want to answer slowly <eos>
+I want to answer with help <eos>
+I want to answer by myself <eos>
+I want to ask clearly <eos>
+I want to ask slowly <eos>
+I want to ask again <eos>
+I want to ask with help <eos>
+I want to ask by myself <eos>
+I want to respond carefully <eos>
+I want to respond slowly <eos>
+I want to respond with help <eos>
+I want to respond by myself <eos>
+I want to speak clearly <eos>
+I want to speak slowly <eos>
+I want to speak louder <eos>
+I want to speak quietly <eos>
+I want to speak with support <eos>
+I want to listen carefully <eos>
+I want to listen slowly <eos>
+I want to listen again carefully <eos>
+I want to listen with help <eos>
+I want to listen by myself <eos>
+I want to hear more clearly <eos>
+I want to hear again clearly <eos>
+I want to hear slowly <eos>
+I want to hear with help <eos>
+I want to hear by myself <eos>
+I want to see more clearly <eos>
+I want to see again clearly <eos>
+I want to see slowly <eos>
+I want to see with help <eos>
+I want to see by myself <eos>
+I want to remember clearly <eos>
+I want to remember again <eos>
+I want to remember slowly <eos>
+I want to remember with help <eos>
+I want to remember by myself <eos>
+I want to forget about this <eos>
+I want to forget what happened <eos>
+I want to forget slowly <eos>
+I want to forget with help <eos>
+I want to forget by myself <eos>
+I want to stay calm <eos>
+I want to stay quiet <eos>
+I want to stay focused <eos>
+I want to stay here <eos>
+I want to stay with you <eos>
+I want to stay alone <eos>
+I want to stay for a while <eos>
+I want to stay longer <eos>
+I want to stay safe <eos>
+I want to stay relaxed <eos>
+I want to stay calm now <eos>
+I want to stay relaxed now <eos>
+I want to stay focused now <eos>
+I want to stay safe now <eos>
+I want to stay here now <eos>
+I want to stay with you now <eos>
+I want to stay alone now <eos>
+I want to stay quiet now <eos>
+I want to stay longer here <eos>
+I want to stay a little longer <eos>
+I want to go somewhere else <eos>
+I want to go to another place <eos>
+I want to go to a quiet place <eos>
+I want to go to a calm place <eos>
+I want to go to a safe place <eos>
+I want to go to a different room <eos>
+I want to go to another room <eos>
+I want to go back inside <eos>
+I want to go back outside <eos>
+I want to go back home <eos>
+I want to come back later <eos>
+I want to come back now <eos>
+I want to come closer <eos>
+I want to come here now <eos>
+I want to come with my friend <eos>
+I want to sit somewhere else <eos>
+I want to sit in another place <eos>
+I want to sit near the window <eos>
+I want to sit near the door <eos>
+I want to sit next to my friend <eos>
+I want to stand somewhere else <eos>
+I want to stand in another place <eos>
+I want to stand near you <eos>
+I want to stand by the door <eos>
+I want to lie down somewhere quiet <eos>
+I want to lie down in another room <eos>
+I want to lie down for a while <eos>
+I want to rest for a while <eos>
+I want to rest somewhere quiet <eos>
+I want to rest in another room <eos>
+I want to sleep a little more <eos>
+I want to sleep somewhere quiet <eos>
+I want to wake up later today <eos>
+I want to wake up tomorrow <eos>
+I want to eat something small <eos>
+I want to eat something light <eos>
+I want to eat something warm now <eos>
+I want to eat something cold now <eos>
+I want to eat something different <eos>
+I want to drink something fresh <eos>
+I want to drink something sweet now <eos>
+I want to drink something warm now <eos>
+I want to drink something cold now <eos>
+I want to drink a little more <eos>
+I want to play somewhere else <eos>
+I want to play in another room <eos>
+I want to play outside now <eos>
+I want to play inside now <eos>
+I want to play with someone <eos>
+I want to play quietly <eos>
+I want to play slowly <eos>
+I want to play something different <eos>
+I want to watch something else <eos>
+I want to watch something new now <eos>
+I want to watch something interesting now <eos>
+I want to listen to something new <eos>
+I want to listen quietly now <eos>
+I want to listen more carefully <eos>
+I want to hear something new <eos>
+I want to hear more clearly now <eos>
+I want to see something new <eos>
+I want to see something different <eos>
+I want to see more clearly now <eos>
+I want to understand this better now <eos>
+I want to understand everything <eos>
+I want to explain this better <eos>
+I want to explain more clearly <eos>
+I want to answer more carefully <eos>
+I want to answer more clearly <eos>
+I want to ask more clearly <eos>
+I want to ask again now <eos>
+I want to try again tomorrow <eos>
+I want to try again later <eos>
+I want to practice later <eos>
+I want to practice tomorrow <eos>
+I want to learn more tomorrow <eos>
+I want to learn again later <eos>
+I want to remember this later <eos>
+I want to remember this tomorrow <eos>
+I want to forget this now <eos>
+I want to forget this later <eos>
+I want to feel calmer now <eos>
+I want to feel happier now <eos>
+I want to feel safer now <eos>
+I want to feel stronger now <eos>
+I want to feel more relaxed now <eos>
+I want to feel less tired now <eos>
+I want to feel less afraid now <eos>
+I want to feel less angry now <eos>
+I want to feel less sad now <eos>
+I want to feel less stressed now <eos>
+I want to feel ready to continue <eos>
+I want to feel ready to start <eos>
+I want to feel ready to try <eos>
+I want to feel ready to learn <eos>
+I want to feel ready to listen <eos>
+I want to feel ready to focus <eos>
+I want to feel ready to answer <eos>
+I want to feel ready to speak <eos>
+I want to feel ready to move <eos>
+I want to feel ready to go <eos>
+I want to feel ready to continue now <eos>
+I want to feel ready to answer now <eos>
+I want to feel ready to speak now <eos>
+I want to feel ready to move now <eos>
+I want to feel ready to go now <eos>
+I want to feel ready to stop <eos>
+I want to feel ready to rest <eos>
+I want to feel ready to sleep <eos>
+I want to feel ready to try again <eos>
+I want to feel ready to focus again <eos>
+I want to take a deep breath now <eos>
+I want to breathe slowly now <eos>
+I want to breathe deeply <eos>
+I want to breathe calmly <eos>
+I want to relax my body <eos>
+I want to relax my mind <eos>
+I want to calm my body <eos>
+I want to calm my mind <eos>
+I want to slow down <eos>
+I want to move more slowly <eos>
+I want to take my time <eos>
+I want to go step by step <eos>
+I want to try step by step <eos>
+I want to learn step by step <eos>
+I want to understand step by step <eos>
+I want to focus step by step <eos>
+I want to do it slowly <eos>
+I want to do it carefully <eos>
+I want to do it with help <eos>
+I want to do it by myself <eos>
+I want to do it again <eos>
+I want to do something different <eos>
+I want to change my mind <eos>
+I want to change my choice <eos>
+I want to change my answer <eos>
+I want to change my position <eos>
+I want to change my place <eos>
+I want to change the activity <eos>
+I want to change what we are doing <eos>
+I want to stop this now <eos>
+I want to stop and rest <eos>
+I want to stop and think <eos>
+I want to stop and breathe <eos>
+I want to stop for a moment <eos>
+I want to continue later <eos>
+I want to continue now <eos>
+I want to continue slowly <eos>
+I want to continue with help <eos>
+I want to continue by myself <eos>
+I want to begin again tomorrow <eos>
+I want to begin again later <eos>
+I want to begin slowly <eos>
+I want to begin carefully <eos>
+I want to begin with support <eos>
+I want to finish this later <eos>
+I want to finish this tomorrow <eos>
+I want to finish carefully <eos>
+I want to finish slowly <eos>
+I want to finish with help <eos>
+I want to ask for help now <eos>
+I want to ask for help later <eos>
+I want to ask for more support <eos>
+I want to ask for less noise <eos>
+I want to ask for more quiet <eos>
+I want to ask for more time <eos>
+I want to ask for more space <eos>
+I want to ask for attention now <eos>
+I want to ask for a short break <eos>
+I want to ask for a longer break <eos>
+I want to say something important <eos>
+I want to say something now <eos>
+I want to say it again <eos>
+I want to say it slowly <eos>
+I want to say it clearly <eos>
+I want to say how I feel <eos>
+I want to say what happened <eos>
+I want to tell you something important <eos>
+I want to tell you something now <eos>
+I want to tell you again <eos>
+I want to share how I feel <eos>
+I want to share what happened <eos>
+I want to share something important <eos>
+I want to explain how I feel now <eos>
+I want to explain what happened now <eos>
+I want to explain this slowly <eos>
+I want to explain this clearly <eos>
+I want to understand what happened <eos>
+I want to understand how you feel <eos>
+I want to understand what to do <eos>
+I want to understand what comes next <eos>
+I want to understand the instructions <eos>
+I want to listen to the instructions <eos>
+I want to follow the instructions <eos>
+I want to follow step by step <eos>
+I want to try one step at a time <eos>
+I want to learn one step at a time <eos>
+I want to focus on one thing <eos>
+I want to do one thing at a time <eos>
+I want to take a short break <eos>
+I want to take a longer break <eos>
+I want to take a small step <eos>
+I want to take another step <eos>
+I want to move one step forward <eos>
+I want to move one step back <eos>
+I want to stay calm and focused <eos>
+I want to stay relaxed and quiet <eos>
+I want to stay here for now <eos>
+I want to stay here a little longer <eos>
+I want to stay with you for now <eos>
+I want to stay by myself for now <eos>
+I want to feel ready again <eos>
+I want to feel calm again <eos>
+I want to feel better again <eos>
+I want to feel strong again <eos>
+I want to feel safe again <eos>
+Tomorrow I want to learn new words <eos>
+Tomorrow I want to read an interesting book <eos>
+Tomorrow I want to be very happy <eos>
+Tomorrow I want to feel much stronger <eos>
+I want to open the feelings board <eos>
+I want to open the food board <eos>
+I want to open the games board <eos>
+I want to open the actions board <eos>
+I want to open the places board <eos>
+I want to open the people board <eos>
+I want to open the clothes board <eos>
+I want to open the body board <eos>
+I want to open the schedule board <eos>
+I want to open the help board <eos>
+I want to close the board now <eos>
+I want to go back to the main board here <eos>
+I want to delete what I wrote <eos>
+I want to say the sentence again <eos>
+I want to add a word to the bar here <eos>
+I want to change the picture now <eos>
+I want to make the buttons bigger on the board <eos>
+I want to hear a male voice <eos>
+I want to hear a female voice <eos>
+I want the system to speak more slowly <eos>
+I want the system to speak faster <eos>
+I want to switch the language now <eos>
+I want to save this sentence <eos>
+I want to use word prediction here <eos>
+I want to see the word suggestions <eos>
+I want to choose the next word <eos>
+I want to clear the whole screen <eos>
+I want help with eye tracking <eos>
+I want to do calibration again now <eos>
+I want to change the gaze time <eos>
+I feel excited about the holiday today <eos>
+I feel excited about the party tomorrow <eos>
+I feel excited to see the family <eos>
+I feel excited to get a new gift <eos>
+I feel excited to go to the sea today <eos>
+I feel frustrated because it is hard for me <eos>
+I feel frustrated because people do not understand <eos>
+I feel frustrated because the system is not working <eos>
+I feel frustrated because I am tired <eos>
+I feel frustrated and I need help quickly <eos>
+I like to eat a red apple <eos>
+I like to eat a very sweet banana <eos>
+I like to eat green grapes now <eos>
+I like to eat a very juicy orange <eos>
+I like to eat cold watermelon in summer <eos>
+I like to eat very sweet melon <eos>
+I like to eat a red strawberry <eos>
+I like to eat a soft tasty peach <eos>
+I like to eat a sweet plum <eos>
+I like to eat fruit every day <eos>
+Today the weather is very pleasant outside <eos>
+Today it is raining hard outside now <eos>
+Today there is very strong wind outside <eos>
+Today the sun is shining and I feel very hot <eos>
+Today I feel very cold and I need a coat <eos>
+Today there are gray clouds in the sky now <eos>
+Today it is very humid outside <eos>
+Today the air is clean and pleasant <eos>
+Today the weather is changing quickly <eos>
+Today I want to go outside for fresh air <eos>
+Today I want to stay inside because it is cold <eos>
+Today I want to stay inside because it is raining <eos>
+Today I want to stay inside because it is hot <eos>
+Today I want to go for a walk in the sun <eos>
+Today I want to take an umbrella outside <eos>
+Today I want to wear a warm jacket <eos>
+Today I want to wear light clothes <eos>
+Today I want to wear a hat <eos>
+Today I want to wear comfortable shoes <eos>
+Today I want to drink hot tea <eos>
+Today I want to drink cold water <eos>
+Today I want to eat something warm <eos>
+Today I want to eat something cold <eos>
+Today I want to rest at home <eos>
+Today I want to be with my family <eos>
+Today I want to be with friends <eos>
+Today I want to listen to quiet music <eos>
+Today I want to watch a funny video <eos>
+Today I want to play outside in the yard <eos>
+Today I want to play inside at home <eos>
+Today I want to go to the garden <eos>
+Today I want to go to the playground <eos>
+Today I want to go to the mall <eos>
+Today I want to go to the beach <eos>
+Today I want to go to school <eos>
+Today I want to stay in my room <eos>
+I feel happy because the weather is nice <eos>
+I feel sad because it is a gray day <eos>
+I feel calm when it is quiet outside <eos>
+I feel nervous because there is a storm <eos>
+I feel excited because we are going out <eos>
+I feel bored because we are staying home <eos>
+I feel tired because I did not sleep well <eos>
+I feel hungry because I skipped breakfast <eos>
+I feel thirsty because it is hot today <eos>
+I feel safe when I am with you <eos>
+I feel scared when it is dark outside <eos>
+I want to go to the bathroom now <eos>
+I want to wash my hands now <eos>
+I want to brush my teeth now <eos>
+I want to take a shower now <eos>
+I want to change my clothes now <eos>
+I want to put on a jacket <eos>
+I want to take off my jacket <eos>
+I want to put on shoes <eos>
+I want to take off my shoes <eos>
+I want to comb my hair <eos>
+I want to dry my hands <eos>
+I want to dry my hair <eos>
+I want to use a towel <eos>
+I want soap please <eos>
+I want shampoo please <eos>
+I want tissues please <eos>
+I want a wet wipe please <eos>
+I want to sit on the toilet <eos>
+I want to flush please <eos>
+I want privacy please <eos>
+I want help in the bathroom <eos>
+My stomach hurts <eos>
+My head hurts <eos>
+My throat hurts <eos>
+My tooth hurts <eos>
+My ear hurts <eos>
+My leg hurts <eos>
+My arm hurts <eos>
+My hand hurts <eos>
+My back hurts <eos>
+My neck hurts <eos>
+I feel dizzy <eos>
+I feel nauseous <eos>
+I feel weak <eos>
+I feel sick <eos>
+I need a doctor <eos>
+I need medicine <eos>
+I need help now <eos>
+I need to rest now <eos>
+I need to lie down now <eos>
+I need water now <eos>
+I need food now <eos>
+Please help me <eos>
+Please stay with me <eos>
+Please speak slowly <eos>
+Please explain again <eos>
+Please give me time <eos>
+Please give me space <eos>
+Please stop for a moment <eos>
+Please wait <eos>
+I want to open the settings <eos>
+I want to change the volume <eos>
+I want to make it louder <eos>
+I want to make it quieter <eos>
+I want to change the screen brightness <eos>
+I want the screen brighter <eos>
+I want the screen darker <eos>
+I want to change the button size <eos>
+I want bigger buttons <eos>
+I want smaller buttons <eos>
+I want to change the layout <eos>
+I want to change the keyboard <eos>
+I want to change the font size <eos>
+I want to change the voice <eos>
+I want to test the voice <eos>
+I want to test the microphone <eos>
+I want to test the camera <eos>
+I want to test eye tracking <eos>
+I want to start calibration <eos>
+I want to finish calibration <eos>
+I want to try again <eos>
+I want to save the settings <eos>
+I want to cancel <eos>
+I want to confirm <eos>
+I want to go back <eos>
+I want to go to the home screen <eos>
+I want to open the keyboard <eos>
+I want to close the keyboard <eos>
+I want to clear the text <eos>
+I want to erase the last word <eos>
+I want to erase the last letter <eos>
+I want to add a space <eos>
+I want to go to the next line <eos>
+I want to say this now <eos>
+I want to say it again <eos>
+I want to speak now <eos>
+I want to be heard <eos>
+I want to be understood <eos>
+I want to communicate better <eos>
+I want to communicate faster <eos>
+I want to communicate more easily <eos>
+I want to practice speaking <eos>
+I want to practice using the board <eos>
+I want to learn how to use this <eos>
+I want to learn the buttons <eos>
+I want to learn the words <eos>
+I want to learn new sentences <eos>
+I want to improve my English <eos>
+I want to improve my Hebrew <eos>
+I want to improve my communication <eos>
+I want to improve my predictions <eos>
+I want the system to learn from me <eos>
+I want the system to remember my choices <eos>
+I want the system to suggest better words <eos>
+I want to see statistics <eos>
+I want to see my progress <eos>
+I want to see accuracy <eos>
+I want to see which words I use most <eos>
+I want to see what I said today <eos>
+I want to see my history <eos>
+I want to delete my history <eos>
+I want to reset the system <eos>
+I want to backup my data <eos>
+I want to restore my data <eos>
+I want to export my sentences <eos>
+I want to import sentences <eos>
+I want to add more sentences <eos>
+I want to remove duplicate sentences <eos>
+I want to clean the dataset <eos>
+I want to keep the best sentences <eos>
+I want to remove bad sentences <eos>
+I want to improve the dataset quality <eos>
+I want to eat baked potatoes <eos>
+I want to eat hot lentil soup <eos>
+I want to drink water with ice <eos>
+I want to drink fresh orange juice <eos>
+I want to drink hot sweet chocolate milk <eos>
+I want to drink calming herbal tea <eos>
+I want to drink very cold milk <eos>
+I want to drink yellow lemonade outside <eos>
+I want to drink soda with lemon <eos>
+I want to drink a cold fruit drink <eos>
+I want to drink water from my bottle <eos>
+I want to drink tea with honey <eos>
+I want to play soccer on the field outside <eos>
+I want to play with my lego blocks <eos>
+I want to play hide and seek inside the house <eos>
+I want to play tag in the yard now <eos>
+I want to play an animal memory game <eos>
+I want to play a color lotto game <eos>
+I want to play with play dough <eos>
+I want to play on the computer in my room <eos>
+I want to play on the new tablet now <eos>
+I want to play with friends in the garden <eos>
+I want to listen to happy music on the board <eos>
+I want to listen to a song about family <eos>
+I want to listen to a story about space <eos>
+I want to listen to ocean sounds <eos>
+I want to listen to the sound of rain <eos>
+I want to listen to the song again <eos>
+I want to hear you talking to me <eos>
+I want to listen to quiet music in bed <eos>
+I want to listen to a story before sleep <eos>
+I want to listen to music from the movie we watched <eos>
+I want to see the birds outside <eos>
+I want to see the cat sleeping <eos>
+I want to see the dog running <eos>
+I want to watch a video about animals <eos>
+I want to watch a video about washing machines <eos>
+I want to see pictures on the phone now <eos>
+I want to see the blue sky <eos>
+I want to see the flowers in the garden <eos>
+I want to see myself in the mirror <eos>
+I want to see your smile <eos>
+I need help closing the jacket <eos>
+I need help opening the bag <eos>
+I need help tying my shoes <eos>
+I need help washing my hands <eos>
+I need help tidying the room <eos>
+I need help reading the word <eos>
+I need help writing the name <eos>
+I need help drawing the flower <eos>
+I need help getting up from the chair now <eos>
+I need help sitting in the comfortable chair <eos>
+I feel happy because I am at home <eos>
+I feel tired after a long day <eos>
+I feel hungry and I want to eat now <eos>
+I feel thirsty and I want to drink water <eos>
+I feel strong and I can do anything <eos>
+I feel good and very satisfied now <eos>
+I feel calm in my quiet room <eos>
+I feel ready to start working now <eos>
+Why is the young woman waiting by the green door <eos>
+How did the child learn to ride a bike without fear <eos>
+Can the driver stop at the next station <eos>
+When will the short movie start in the small hall <eos>
+Where did I put the silver key on the table <eos>
+What made the playful dog chase the red ball <eos>
+Which color do you want to paint the room <eos>
+Who among the friends will bring water for today trip <eos>
+How long should we cook the soft rice <eos>
+What small gift would make mom happy this weekend <eos>
+How does the chef bring the quiet box by the window <eos>
+How does the coach buy the red note in the room <eos>
+How does the coach send the clean water in the kitchen <eos>
+How does the doctor measure the big bottle in the hall <eos>
+How does the doctor read the low door in the garden <eos>
+How does the dog fix the old bag at the door <eos>
+How does the dog sell the fast chair near the station <eos>
+How does the dog sell the soft movie on the bus <eos>
+How does the friend cook the tall shirt in the store <eos>
+How does the gardener open the small note on the bus <eos>
+How does the gardener pack the quiet lamp at the park <eos>
+How does the girl open the slow box in the garden <eos>
+How does the guard cook the warm ball at the park <eos>
+How does the neighbor pack the tall backpack on the bus <eos>
+How does the parent build the quiet shirt in the garden <eos>
+How does the parent close the small hat at the school <eos>
+How does the parent measure the cold toy on the bus <eos>
+How does the researcher measure the soft chair on the street <eos>
+How does the researcher wash the slow notebook on the street <eos>
+How does the singer build the big water at the school <eos>
+How does the student change the quiet window in the yard <eos>
+How does the student clean the cold water on the table <eos>
+How does the student prepare the dirty door in the yard <eos>
+How does the teacher choose the green cake in the room <eos>
+How does the teacher write the strong lamp at the school <eos>
+How does the woman carry the red bottle in the hall <eos>
+How does the woman pack the light window at the school <eos>
+How does the worker buy the quiet table at the park <eos>
+How many backpacks does the worker measure <eos>
+How many backpacks does the worker open <eos>
+How many bags does the child bring <eos>
+How many bags does the child hold <eos>
+How many bags does the driver clean <eos>
+How many bags does the student carry <eos>
+How many balls does the painter answer <eos>
+How many bottles does the coach open <eos>
+How many bottles does the girl pack <eos>
+How many boxes does the child build <eos>
+How many boxes does the driver open <eos>
+How many boxes does the guard repair <eos>
+How many boxes does the planner hold <eos>
+How many boxes does the woman measure <eos>
+How many chairs does the dog build <eos>
+How many chairs does the woman check <eos>
+How many coats does the coach carry <eos>
+How many doors does the neighbor repair <eos>
+How many flowers does the driver prepare <eos>
+How many foods does the dog clean <eos>
+How many foods does the parent fix <eos>
+How many hats does the cashier read <eos>
+How many hats does the friend pack <eos>
+How many lamps does the cat change <eos>
+How many maps does the driver hold <eos>
+How many maps does the gardener check <eos>
+How many movies does the dog fill <eos>
+How many movies does the parent repair <eos>
+How many notebooks does the boy paint <eos>
+How many notebooks does the friend check <eos>
+How many pictures does the doctor watch <eos>
+How many pictures does the pilot cook <eos>
+How many shirts does the boy prepare <eos>
+How many tables does the singer measure <eos>
+How many tools does the driver build <eos>
+How many tools does the guard bring <eos>
+How many toys does the cat pack <eos>
+How many toys does the child check <eos>
+How many toys does the neighbor pack <eos>
+How many waters does the researcher hold <eos>
+How many windows does the cashier sell <eos>
+How many windows does the doctor measure <eos>
+How many windows does the woman write <eos>
+How much time does the boy need to explain the clean book <eos>
+How much time does the boy need to prepare the quiet book <eos>
+How much time does the cat need to carry the loud door <eos>
+How much time does the cat need to prepare the old coat <eos>
+How much time does the cat need to send the loud gift <eos>
+How much time does the chef need to answer the big picture <eos>
+How much time does the chef need to measure the cold window <eos>
+How much time does the chef need to watch the red food <eos>
+How much time does the doctor need to build the slow flower <eos>
+How much time does the dog need to measure the low note <eos>
+How much time does the driver need to fill the strong book <eos>
+How much time does the driver need to read the old box <eos>
+How much time does the driver need to repair the small key <eos>
+How much time does the gardener need to build the strong movie <eos>
+How much time does the gardener need to check the loud map <eos>
+How much time does the girl need to carry the green movie <eos>
+How much time does the girl need to measure the wide hat <eos>
+How much time does the man need to bring the dirty box <eos>
+How much time does the man need to clean the low lamp <eos>
+How much time does the neighbor need to choose the clean flower <eos>
+How much time does the neighbor need to paint the new lamp <eos>
+How much time does the painter need to answer the strong towel <eos>
+How much time does the painter need to hold the red toy <eos>
+How much time does the painter need to prepare the new hat <eos>
+How much time does the parent need to close the red notebook <eos>
+How much time does the parent need to hold the heavy tool <eos>
+How much time does the pilot need to choose the strong flower <eos>
+How much time does the pilot need to find the new notebook <eos>
+How much time does the planner need to explain the strong hat <eos>
+How much time does the researcher need to choose the dirty window <eos>
+How much time does the researcher need to hold the quiet notebook <eos>
+How much time does the singer need to paint the strong coat <eos>
+How much time does the student need to choose the big movie <eos>
+How much time does the student need to choose the yellow flower <eos>
+How much time does the teacher need to choose the old backpack <eos>
+How much time does the teacher need to close the light cake <eos>
+How much time does the teacher need to follow the wide backpack <eos>
+How much time does the woman need to explain the blue book <eos>
+How much time does the worker need to follow the clean chair <eos>
+How much time does the worker need to follow the red key <eos>
+How much time does the worker need to send the warm gift <eos>
+What does the boy bring the soft phone for <eos>
+What does the boy prepare the green flower for <eos>
+What does the cashier check the dirty shirt for <eos>
+What does the cashier move the red book for <eos>
+What does the cat explain the blue toy for <eos>
+What does the cat sell the low movie for <eos>
+What does the coach clean the small map for <eos>
+What does the coach fix the yellow map for <eos>
+What does the dog build the green lamp for <eos>
+What does the dog cook the blue table for <eos>
+What does the driver clean the green key for <eos>
+What does the driver hold the blue box for <eos>
+What does the driver move the heavy map for <eos>
+What does the friend close the dirty ticket for <eos>
+What does the friend read the slow backpack for <eos>
+What does the gardener carry the quiet hat for <eos>
+What does the gardener change the red ticket for <eos>
+What does the gardener measure the loud notebook for <eos>
+What does the girl paint the red lamp for <eos>
+What does the girl write the big hat for <eos>
+What does the guard fill the wide picture for <eos>
+What does the guard wash the heavy table for <eos>
+What does the man change the cold coat for <eos>
+What does the neighbor clean the tall door for <eos>
+What does the neighbor explain the clean chair for <eos>
+What does the neighbor find the loud hat for <eos>
+What does the neighbor open the low towel for <eos>
+What does the neighbor wash the cold box for <eos>
+What does the painter close the fast food for <eos>
+What does the painter find the dirty map for <eos>
+What does the pilot choose the light towel for <eos>
+What does the planner carry the light coat for <eos>
+What does the planner close the new map for <eos>
+What does the planner move the strong notebook for <eos>
+What does the researcher build the loud ticket for <eos>
+What does the researcher choose the wide door for <eos>
+What does the researcher move the yellow key for <eos>
+What does the singer answer the strong towel for <eos>
+What does the singer sell the dirty window for <eos>
+What does the student build the loud bottle for <eos>
+What does the student find the warm ball for <eos>
+What does the woman clean the fast phone for <eos>
+What does the woman close the wide notebook for <eos>
+What does the woman follow the low key for <eos>
+What does the woman pack the quiet flower for <eos>
+What does the woman read the wide key for <eos>
+When will the boy change the dirty food <eos>
+When will the cashier build the clean gift <eos>
+When will the cashier build the clean note <eos>
+When will the cashier clean the green box <eos>
+When will the cashier cook the warm ticket <eos>
+When will the cashier wash the soft table <eos>
+When will the cat close the strong movie <eos>
+When will the cat move the big flower <eos>
+When will the chef follow the strong door <eos>
+When will the child carry the new map <eos>
+When will the coach carry the big toy <eos>
+When will the coach check the small cake <eos>
+When will the coach prepare the tall water <eos>
+When will the coach write the heavy towel <eos>
+When will the doctor hold the red toy <eos>
+When will the driver fill the loud table <eos>
+When will the friend build the tall ball <eos>
+When will the friend fix the green cake <eos>
+When will the gardener cook the old coat <eos>
+When will the gardener cook the red tool <eos>
+When will the gardener fill the heavy coat <eos>
+When will the gardener measure the blue key <eos>
+When will the gardener measure the dirty phone <eos>
+When will the girl follow the heavy notebook <eos>
+When will the girl prepare the new movie <eos>
+When will the guard carry the fast food <eos>
+When will the guard change the new gift <eos>
+When will the man check the loud movie <eos>
+When will the neighbor explain the strong backpack <eos>
+When will the painter write the dirty hat <eos>
+When will the parent repair the clean hat <eos>
+When will the pilot answer the big bag <eos>
+When will the pilot cook the slow towel <eos>
+When will the pilot send the slow gift <eos>
+When will the planner open the small ticket <eos>
+When will the researcher choose the warm toy <eos>
+When will the researcher write the small tool <eos>
+When will the woman check the green note <eos>
+When will the woman prepare the narrow book <eos>
+When will the woman watch the cold food <eos>
+When will the worker change the cold movie <eos>
+Where can the boy change the dirty map <eos>
+Where can the boy choose the warm map <eos>
+Where can the cashier build the new note <eos>
+Where can the cat answer the cold food <eos>
+Where can the chef pack the wide cake <eos>
+Where can the chef send the dirty coat <eos>
+Where can the chef wash the warm map <eos>
+Where can the child open the red bottle <eos>
+Where can the coach answer the loud map <eos>
+Where can the coach change the dirty toy <eos>
+Where can the coach fix the old shirt <eos>
+Where can the coach move the quiet cake <eos>
+Where can the doctor clean the low window <eos>
+Where can the doctor find the cold key <eos>
+Where can the doctor fix the soft tool <eos>
+Where can the doctor wash the old food <eos>
+Where can the dog bring the small toy <eos>
+Where can the dog cook the slow bottle <eos>
+Where can the dog pack the loud toy <eos>
+Where can the driver prepare the green picture <eos>
+Where can the friend measure the red phone <eos>
+Where can the girl open the cold ball <eos>
+Where can the girl prepare the yellow hat <eos>
+Where can the girl sell the slow door <eos>
+Where can the guard buy the big cake <eos>
+Where can the guard hold the tall gift <eos>
+Where can the man answer the narrow ticket <eos>
+Where can the man cook the warm shirt <eos>
+Where can the man follow the heavy picture <eos>
+Where can the neighbor hold the old note <eos>
+Where can the painter bring the slow bottle <eos>
+Where can the painter follow the big backpack <eos>
+Where can the parent bring the blue note <eos>
+Where can the parent follow the yellow movie <eos>
+Where can the planner check the old bottle <eos>
+Where can the planner follow the yellow note <eos>
+Where can the singer hold the heavy notebook <eos>
+Where can the singer hold the tall food <eos>
+Where can the singer measure the red movie <eos>
+Where can the student repair the low ball <eos>
+Where can the teacher check the old table <eos>
+Where can the teacher sell the loud door <eos>
+Where can the teacher send the strong note <eos>
+Where can the woman bring the tall lamp <eos>
+Where can the woman buy the blue flower <eos>
+Where can the worker close the light note <eos>
+Where can the worker fix the big ticket <eos>
+Where can the worker repair the warm cake <eos>
+Where does the cashier carry the yellow bottle <eos>
+Where does the cashier cook the slow book <eos>
+Where does the cashier read the narrow movie <eos>
+Where does the cashier wash the green gift <eos>
+Where does the chef fill the new notebook <eos>
+Where does the chef measure the narrow shirt <eos>
+Where does the chef open the clean phone <eos>
+Where does the chef read the wide towel <eos>
+Where does the child sell the new chair <eos>
+Where does the child sell the old towel <eos>
+Where does the child sell the quiet note <eos>
+Where does the coach explain the cold hat <eos>
+Where does the coach hold the small movie <eos>
+Where does the dog follow the warm towel <eos>
+Where does the dog open the fast map <eos>
+Where does the driver clean the big notebook <eos>
+Where does the friend follow the strong table <eos>
+Where does the gardener hold the yellow picture <eos>
+Where does the girl fill the low backpack <eos>
+Where does the guard check the slow lamp <eos>
+Where does the guard explain the soft ball <eos>
+Where does the man build the big towel <eos>
+Where does the man clean the dirty notebook <eos>
+Where does the painter check the soft bottle <eos>
+Where does the parent open the heavy coat <eos>
+Where does the parent pack the loud ball <eos>
+Where does the parent repair the cold map <eos>
+Where does the planner carry the strong movie <eos>
+Where does the planner repair the cold water <eos>
+Where does the singer write the fast coat <eos>
+Where does the student check the blue hat <eos>
+Where does the teacher send the wide picture <eos>
+Where does the woman pack the heavy towel <eos>
+Where does the woman paint the cold tool <eos>
+Where does the worker carry the clean lamp <eos>
+Which backpack does the pilot build <eos>
+Which bag does the driver answer <eos>
+Which bag does the driver watch <eos>
+Which bag does the student carry <eos>
+Which ball does the driver wash <eos>
+Which ball does the student fill <eos>
+Which book does the cashier buy <eos>
+Which book does the friend cook <eos>
+Which book does the student change <eos>
+Which bottle does the neighbor write <eos>
+Which box does the doctor wash <eos>
+Which box does the researcher carry <eos>
+Which cake does the friend change <eos>
+Which cake does the guard pack <eos>
+Which cake does the neighbor close <eos>
+Which chair does the parent write <eos>
+Which coat does the friend watch <eos>
+Which door does the worker carry <eos>
+Which door does the worker move <eos>
+Which gift does the driver measure <eos>
+Which gift does the parent change <eos>
+Which key does the driver repair <eos>
+Which key does the researcher paint <eos>
+Which lamp does the gardener pack <eos>
+Which lamp does the girl explain <eos>
+Which lamp does the woman cook <eos>
+Which lamp does the worker write <eos>
+Which movie does the parent build <eos>
+Which phone does the researcher watch <eos>
+Which phone does the worker explain <eos>
+Which picture does the girl check <eos>
+Which picture does the researcher wash <eos>
+Which picture does the student watch <eos>
+Which picture does the teacher prepare <eos>
+Which shirt does the cat move <eos>
+Which shirt does the gardener prepare <eos>
+Which table does the child choose <eos>
+Which table does the gardener find <eos>
+Which ticket does the cat buy <eos>
+Which ticket does the man cook <eos>
+Which towel does the friend carry <eos>
+Which towel does the singer sell <eos>
+Which towel does the teacher buy <eos>
+Which toy does the boy repair <eos>
+Which toy does the doctor choose <eos>
+Which water does the guard find <eos>
+Which water does the worker explain <eos>
+Which window does the painter send <eos>
+Who will answer the blue note <eos>
+Who will answer the dirty book <eos>
+Who will answer the dirty picture <eos>
+Who will answer the light note <eos>
+Who will bring the blue picture <eos>
+Who will bring the dirty chair <eos>
+Who will bring the low map <eos>
+Who will bring the red book <eos>
+Who will bring the wide box <eos>
+Who will build the heavy water <eos>
+Who will build the quiet ball <eos>
+Who will build the yellow notebook <eos>
+Who will buy the new ball <eos>
+Who will buy the quiet book <eos>
+Who will carry the big book <eos>
+Who will carry the big phone <eos>
+Who will choose the red flower <eos>
+Who will close the big hat <eos>
+Who will close the clean key <eos>
+Who will cook the slow notebook <eos>
+Who will explain the big window <eos>
+Who will explain the heavy coat <eos>
+Who will explain the strong picture <eos>
+Who will explain the wide movie <eos>
+Who will fill the cold door <eos>
+Who will find the cold lamp <eos>
+Who will fix the soft table <eos>
+Who will follow the heavy phone <eos>
+Who will hold the heavy towel <eos>
+Who will measure the clean shirt <eos>
+Who will move the low bag <eos>
+Who will open the narrow note <eos>
+Who will open the small phone <eos>
+Who will pack the big lamp <eos>
+Who will pack the loud food <eos>
+Who will paint the new note <eos>
+Who will prepare the big shirt <eos>
+Who will prepare the old gift <eos>
+Who will prepare the yellow picture <eos>
+Who will read the fast flower <eos>
+Who will repair the clean coat <eos>
+Who will repair the small coat <eos>
+Who will sell the blue gift <eos>
+Who will sell the dirty toy <eos>
+Who will sell the low water <eos>
+Who will sell the small door <eos>
+Who will sell the small key <eos>
+Who will sell the tall lamp <eos>
+Who will wash the new coat <eos>
+Who will watch the heavy tool <eos>
+Who will watch the red phone <eos>
+Whose backpack does the singer close <eos>
+Whose backpack does the worker change <eos>
+Whose bag does the girl follow <eos>
+Whose bag does the man move <eos>
+Whose bag does the teacher sell <eos>
+Whose ball does the dog explain <eos>
+Whose book does the boy fill <eos>
+Whose book does the teacher build <eos>
+Whose cake does the planner bring <eos>
+Whose chair does the coach pack <eos>
+Whose coat does the child build <eos>
+Whose coat does the dog prepare <eos>
+Whose door does the parent explain <eos>
+Whose flower does the chef clean <eos>
+Whose flower does the student watch <eos>
+Whose food does the chef clean <eos>
+Whose food does the dog close <eos>
+Whose food does the worker repair <eos>
+Whose gift does the cashier fill <eos>
+Whose gift does the child move <eos>
+Whose gift does the driver open <eos>
+Whose hat does the boy check <eos>
+Whose hat does the girl clean <eos>
+Whose key does the woman close <eos>
+Whose key does the worker build <eos>
+Whose map does the researcher close <eos>
+Whose movie does the driver find <eos>
+Whose note does the child find <eos>
+Whose notebook does the gardener check <eos>
+Whose notebook does the pilot hold <eos>
+Whose picture does the friend measure <eos>
+Whose shirt does the chef watch <eos>
+Whose shirt does the girl prepare <eos>
+Whose shirt does the painter follow <eos>
+Whose shirt does the parent find <eos>
+Whose table does the child clean <eos>
+Whose ticket does the friend choose <eos>
+Whose tool does the cashier choose <eos>
+Whose tool does the parent buy <eos>
+Whose towel does the dog explain <eos>
+Whose toy does the boy wash <eos>
+Whose water does the researcher choose <eos>
+Whose window does the cat clean <eos>
+Whose window does the researcher prepare <eos>
+Whose window does the teacher wash <eos>
+Why does the boy build the green box <eos>
+Why does the boy change the new gift <eos>
+Why does the boy prepare the narrow tool <eos>
+Why does the boy read the red water <eos>
+Why does the boy sell the cold toy <eos>
+Why does the cashier close the new toy <eos>
+Why does the cashier find the slow tool <eos>
+Why does the cashier pack the soft water <eos>
+Why does the cashier sell the warm phone <eos>
+Why does the cashier watch the yellow chair <eos>
+Why does the cat change the clean tool <eos>
+Why does the cat paint the narrow tool <eos>
+Why does the child choose the heavy table <eos>
+Why does the coach open the clean water <eos>
+Why does the coach pack the quiet window <eos>
+Why does the coach wash the green bag <eos>
+Why does the driver carry the low lamp <eos>
+Why does the driver close the quiet phone <eos>
+Why does the driver move the fast window <eos>
+Why does the driver prepare the loud towel <eos>
+Why does the girl prepare the old hat <eos>
+Why does the guard answer the narrow tool <eos>
+Why does the guard fix the tall door <eos>
+Why does the guard move the blue toy <eos>
+Why does the parent buy the low bottle <eos>
+Why does the parent follow the green toy <eos>
+Why does the pilot build the new window <eos>
+Why does the pilot clean the tall chair <eos>
+Why does the planner cook the small notebook <eos>
+Why does the planner fill the light notebook <eos>
+Why does the planner read the wide coat <eos>
+Why does the singer hold the warm backpack <eos>
+Why does the teacher change the strong ball <eos>
+Why does the woman hold the soft lamp <eos>
+Why does the worker change the quiet water <eos>
+Why is the boy building the light water <eos>
+Why is the boy repairing the loud phone <eos>
+Why is the cashier checking the wide notebook <eos>
+Why is the cashier choosing the strong flower <eos>
+Why is the cat measuring the big movie <eos>
+Why is the coach filling the warm chair <eos>
+Why is the doctor bringing the green towel <eos>
+Why is the doctor closing the new phone <eos>
+Why is the doctor preparing the heavy movie <eos>
+Why is the dog explaining the cold table <eos>
+Why is the dog selling the new backpack <eos>
+Why is the driver bringing the fast coat <eos>
+Why is the driver cleaning the soft food <eos>
+Why is the friend answering the low key <eos>
+Why is the friend reading the yellow picture <eos>
+Why is the gardener answering the cold table <eos>
+Why is the gardener moving the yellow chair <eos>
+Why is the gardener painting the small chair <eos>
+Why is the gardener reading the heavy window <eos>
+Why is the girl moving the soft toy <eos>
+Why is the guard cleaning the yellow flower <eos>
+Why is the guard repairing the green table <eos>
+Why is the man checking the heavy ball <eos>
+Why is the man checking the tall picture <eos>
+Why is the man washing the yellow key <eos>
+Why is the neighbor carrying the wide toy <eos>
+Why is the neighbor opening the quiet door <eos>
+Why is the researcher checking the heavy key <eos>
+Why is the researcher painting the green bottle <eos>
+Why is the researcher washing the quiet cake <eos>
+Why is the student measuring the big chair <eos>
+Why is the student writing the narrow water <eos>
+Why is the teacher cleaning the light gift <eos>
+Why is the teacher following the new flower <eos>
+Why is the teacher packing the wide window <eos>
+Why is the teacher reading the blue ball <eos>
+Why is the woman closing the wide movie <eos>
+Why is the woman watching the quiet ticket <eos>
+Why is the worker packing the green backpack <eos>

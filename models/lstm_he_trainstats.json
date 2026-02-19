@@ -1,0 +1,50 @@
+{
+  "params": {
+    "lang": "he",
+    "hiddenLayers": [
+      8
+    ],
+    "baseLearningRate": 0.0005,
+    "usedLearningRate": 0.0005,
+    "lrDecay": 0.5,
+    "maxRetries": 4,
+    "iterations": 120,
+    "errorThresh": 0.02,
+    "maxTokens": 8,
+    "seed": 1234,
+    "split": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    }
+  },
+  "result": {
+    "error": 0.1560006493813205,
+    "iterations": 120
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "learningRate": 0.0005,
+      "result": {
+        "error": 0.1560006493813205,
+        "iterations": 120
+      },
+      "failure": null,
+      "trainingStats": [
+        "iterations: 0, training error: 0.07776729796349363",
+        "iterations: 10, training error: 0.06070315219812137",
+        "iterations: 20, training error: 0.06544834863623684",
+        "iterations: 30, training error: 0.06856992835074757",
+        "iterations: 40, training error: 0.06880470630637323",
+        "iterations: 50, training error: 0.09560068220277748",
+        "iterations: 60, training error: 0.1259315107421405",
+        "iterations: 70, training error: 0.10631368395021858",
+        "iterations: 80, training error: 0.08937801539734119",
+        "iterations: 90, training error: 0.0864027605811542",
+        "iterations: 100, training error: 0.1035781546688892",
+        "iterations: 110, training error: 0.09971875933547673"
+      ]
+    }
+  ]
+}
