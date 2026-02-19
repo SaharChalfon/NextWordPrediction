@@ -1,4 +1,5 @@
-﻿# AAC Smart Board Lite
+﻿# 
+Next Word Prediction
 
 Bilingual (`English` + `Hebrew`) next-word prediction for AAC, using:
 - `Brain.js` LSTM text models
